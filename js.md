@@ -2,6 +2,12 @@
 
 ## js 
 
+### async
+- history : blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
+
+### libs
+- eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
+
 ### native functions
 
 #### strings
