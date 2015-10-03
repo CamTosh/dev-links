@@ -2,8 +2,15 @@
 
 ## webpack 
 
-### angular
-- using angular 1.x w wp : http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/
--   + repo : https://github.com/angular-tips/webpack-demo
--   + demo : https://github.com/Foxandxss/GermanWords-ng1-webpack
-- vs browserify : http://www.mixedcase.nl/articles/2015/06/14/research-front-end-part-3/ 
+### docs
+- docs : http://webpack.github.io/docs/motivation.html
+
+### posts
+- thoughts on future of web dev : http://www.nixtu.info/2015/01/thoughts-on-future-of-web-development.html
+
+### tuts 
+- intro w examples : http://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/
+
+### vids
+- how instagram works : https://www.youtube.com/watch?v=VkTCL6Nqm6Y
+
