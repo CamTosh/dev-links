@@ -4,6 +4,8 @@
 
 ### docs
 - docs : http://webpack.github.io/docs/motivation.html
+- api : https://github.com/webpack/docs/wiki/api-in-modules
+- instagram docs : https://github.com/petehunt/webpack-howto
 
 ### posts
 - thoughts on future of web dev : http://www.nixtu.info/2015/01/thoughts-on-future-of-web-development.html

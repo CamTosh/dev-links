@@ -16,12 +16,10 @@
 -   + repo : https://github.com/timroes/angular-es6-sample
 
 ### gulp / browserify
-#### seeds
 - angular-gulp-browserify-es6-boilerplate : https://github.com/Pathsofdesign/boilerplates/tree/master/angular-gulp-browserify-es6-boilerplate
 - complet w gulp/brow/sass : http://blog.jhades.org/what-every-angular-project-likely-needs-and-a-gulp-build-to-provide-it/
 - kickstarting w gulp/brows : http://mherman.org/blog/2014/08/15/kickstarting-angular-with-gulp-and-browserify-part-2/#.Vg6_PBNVikp : repo : (angular-gulp-browserify-seed) : https://github.com/mjhea0/angular-gulp-browserify-seed
 - advanced with gulp/node/brow (uses bower) : http://omarfouad.com/blog/2015/03/21/advanced-angularjs-structure-with-gulp-node-and-browserify/ 
-#### info
 - npm post re: 1.3 : https://blog.codecentric.de/en/2014/08/angularjs-browserify/
 - codecentric (2014) : https://blog.codecentric.de/en/2014/08/angularjs-browserify/
 - ben clinken slides : http://benclinkinbeard.com/talks/2014/ng-conf/#/1
