@@ -8,8 +8,16 @@
 ### libs
 - eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
 
-### native functions
+### info
+- creating an open source lib : https://egghead.io/series/how-to-write-an-open-source-javascript-library  
+- js engines for idiots : developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/           
 
+### promises
+- promisees : http://bevacqua.github.io/promisees/                                                           
+- awesome promises : https://github.com/wbinnssmith/awesome-promises                                         
+
+
+### native functions
 #### strings
 
 substring

@@ -4,6 +4,7 @@
 
 ### docs
 - docs : http://webpack.github.io/docs/motivation.html
+- docs : http://webpack.github.io/docs                                                                                  
 - api : https://github.com/webpack/docs/wiki/api-in-modules
 - instagram docs : https://github.com/petehunt/webpack-howto
 
@@ -12,6 +13,8 @@
 
 ### tuts 
 - intro w examples : http://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/
+- beginners guide : https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460                                 
+- http://survivejs.com/webpack_react/introduction/                                                                      
 
 ### vids
 - how instagram works : https://www.youtube.com/watch?v=VkTCL6Nqm6Y

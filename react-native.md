@@ -2,3 +2,15 @@
 
 ### pocs
 - border progress bar : http://josephhsu.com/post/129849031387/react-native-flex-border-progress
+
+### links
+- seed : https://github.com/OssamaZ/react-native-flux-boilerplate                                                  
+- playground : https://rnplay.org/ : hn : https://news.ycombinator.com/item?id=10231907                                                            
+- rn-web : https://github.com/necolas/react-native-web                                                             
+- rn-web 2 : https://github.com/KodersLab/react-native-for-web                                                     
+- vid : http://www.retalk.org/videos/cross-platform-react-reusing-your-code-between-the-web-and-react-native       
+- shapes of rn : http://browniefed.com/blog/2015/09/10/the-shapes-of-react-native/                                 
+- rn meets async functions : https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173   
+- animations : https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox                        
+- rn for web : https://github.com/KodersLab/react-native-for-web                                                   
+- an ios dev on rn : https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0         

@@ -40,3 +40,7 @@ $ grep -lr '<<<<<<<' . | xargs git checkout --ours
 ( checkout all local with merge conflicts )
 ```
 ```
+
+ALTER TABLE `pharma`.`physicians` 
+ADD COLUMN `PRE_MARKET_TRX` INT(11) NULL COMMENT '' AFTER `Account Size Segmentation`,
+ADD COLUMN `POST_MARKET_TRX` INT(11) NULL COMMENT '' AFTER `PRE_MARKET_TRX`;

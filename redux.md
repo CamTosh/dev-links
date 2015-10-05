@@ -18,8 +18,18 @@
 ### seeds
 - react redux webpack universal hot loader : https://github.com/erikras/react-redux-universal-hot-example
 - modern wp react starter : http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
+- redux-starter-kit :https://github.com/davezuko/react-redux-starter-kit                                                            
 
 ### tuts
 - tero full stack tut : http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 - what the flux : https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux
-
+- redux scaffold : https://github.com/lcjnil/react-redux-scaffold                                                
+- interview : http://survivejs.com/blog/redux-interview/                                                         
+- docs : http://rackt.github.io/redux/docs/introduction/Motivation.html                                          
+- handcrafting an isomorphic redux app : https://medium.com/@bananaoomarang/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4      
+- blog full example : https://github.com/GetExpert/redux-blog-example : https://www.reddit.com/r/reactjs/comments/3kiof7/redux_fullfeatured_example_ssr_auth_markdown_css/         
+- state management : http://konkle.us/state-management-with-redux/                                               
+- single state tree : http://merrickchristensen.com/articles/single-state-tree.html                              
+- adrenaline : redux/relay bindings : https://github.com/gyzerok/adrenaline                                      
+- react-relay-redux : https://github.com/cdebotton/react-relay-redux                                             
+- thread : https://github.com/rackt/redux/issues/464                                                             
