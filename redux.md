@@ -16,6 +16,9 @@
 - docs : http://rackt.github.io/redux/docs/basics/index.html
 
 ### seeds
+- react redux : https://react-redux.herokuapp.com/ : https://www.reddit.com/r/reactjs/comments/3nk3re/is_there_a_react_tutorial_that_follows_react/
+- simple-react-redux-starter-kit : https://github.com/luisrudge/simple-react-redux-starter-kit/
+- este : https://github.com/este/este
 - react redux webpack universal hot loader : https://github.com/erikras/react-redux-universal-hot-example
 - modern wp react starter : http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
 - redux-starter-kit :https://github.com/davezuko/react-redux-starter-kit                                                            

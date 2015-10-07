@@ -9,6 +9,7 @@
 - docs : https://nodejs.org/api/
 
 ### libs
+- hapi : http://hapijs.com/
 - bluebird promises : zpalexander.com/blog/javascript-promises-node-js/
 
 ### installation

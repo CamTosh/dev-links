@@ -12,6 +12,12 @@
 - helmet : http://helmetrex.com/                                  
 - react-ui-builder : https://github.com/ipselon/react-ui-builder  
 
+### cms
+- relax : https://github.com/relax/relax
+
+### components
+- react-slide-menu : https://github.com/sap9433/react-slide-menu
+
 ### css
 - radium : http://projects.formidablelabs.com/radium/   
 - css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/ 
@@ -36,6 +42,7 @@
 
 ### examples
 - inspire : http://reactinspire.com/  
+- 10/5 : https://www.reddit.com/r/reactjs/comments/3nkk1i/last_weeks_reactjs_examples/
 
 ### functional
 - understanding the functional revolution : http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/                     
