@@ -1,5 +1,3 @@
-[back](README.md)
-
 ## design
 
 ### style guides

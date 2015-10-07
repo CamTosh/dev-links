@@ -1,5 +1,3 @@
-[back](README.md)
-
 ### async 
 - react-redux-axios spinner : https://github.com/oviava/react-redux-axios-example
 - redux-utils async : https://github.com/penguinsoccer/redux-utils-example

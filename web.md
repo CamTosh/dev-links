@@ -1,5 +1,3 @@
-[back](README.md)
-
 ## Utilities (catch all)  
 
 ### libs

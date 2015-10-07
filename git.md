@@ -1,5 +1,3 @@
-[back](README.md)
-
 ## git
 
 ### general resources
