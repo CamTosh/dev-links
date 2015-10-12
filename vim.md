@@ -5,3 +5,6 @@
 
 ### tuts
 - learn vim 2014 : http://benmccormick.org/learning-vim-in-2014/
+
+### vimrc
+- a good vimrc : http://dougblack.io/words/a-good-vimrc.html

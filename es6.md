@@ -1,5 +1,9 @@
 ## es6   
 
+### classes
+- how to use and sleep at night : https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
+- a simple challenge to classical fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
+
 ### features
 - iterators and iterables : http://www.2ality.com/2015/02/es6-iteration.html                                                                                                
 - es6 generators : alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html                                                                       
@@ -10,6 +14,9 @@
 - generators : http://www.2ality.com/2015/03/no-promises.html?m=1                                                                                                           
 - es for now : http://www.sitepoint.com/es6-now-template-strings/?utm_source=javascriptweekly&utm_medium=email                                                              
 - classes in depth : http://ponyfoo.com/articles/es6-classes-in-depth?utm_source=javascriptweekly&utm_medium=email                                                          
+
+### fetch api
+- async apis using fetch and generators : http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/?utm_source=javascriptweekly&utm_medium=email
 
 ### functions
 - never type function again : https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f

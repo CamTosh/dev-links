@@ -1,5 +1,12 @@
 ## webpack 
 
+### deployment
+- webpack-heroku : https://github.com/wallacyyy/webpack-heroku
+- deploying your react app to heroku with webpack : http://ditrospecta.com/javascript/react/es6/webpack/heroku/2015/08/08/deploying-react-webpack-heroku.html
+
+### discussions
+- re: express, webpack, and react dev : https://www.reddit.com/r/reactjs/comments/3nz098/question_regarding_express_webpack_and_react/
+
 ### docs
 - docs : http://webpack.github.io/docs/motivation.html
 - docs : http://webpack.github.io/docs                                                                                  

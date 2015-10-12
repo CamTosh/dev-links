@@ -6,9 +6,13 @@
 ### libs
 - eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
 
+### inheritance
+- common misconceptions : https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+
 ### info
 - creating an open source lib : https://egghead.io/series/how-to-write-an-open-source-javascript-library  
 - js engines for idiots : developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/           
+- 10 interview questions : https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
 ### promises
 - promisees : http://bevacqua.github.io/promisees/                                                           

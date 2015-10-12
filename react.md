@@ -17,6 +17,7 @@
 - react-slide-menu : https://github.com/sap9433/react-slide-menu
 
 ### css
+- css modules webpack demo : https://css-modules.github.io/webpack-demo/
 - radium : http://projects.formidablelabs.com/radium/   
 - css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/ 
 
@@ -38,8 +39,12 @@
 - react and es6 : http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html                                                                                                 
 - es6 react : http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react                                                                             
 
-### examples
+### example aggregators
+- react rocks : http://react.rocks/
 - inspire : http://reactinspire.com/  
+
+### examples
+- react-elmish-counter : http://react.rocks/example/react-elmish-example
 - 10/5 : https://www.reddit.com/r/reactjs/comments/3nkk1i/last_weeks_reactjs_examples/
 
 ### functional
@@ -49,6 +54,8 @@
 - docs : http://flowtype.org/  
 
 ### libs
+- petehunt/jxstyle : https://github.com/petehunt/jsxstyle
+- velocity-react : https://fabric.io/blog/introducing-the-velocityreact-library
 - classNames : https://github.com/JedWatson/classnames
 - belle : http://nikgraf.github.io/belle/#/                                                                                                                  
 - forms : http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/         
@@ -58,6 +65,9 @@
 
 ### mocha
 - react and mocha : https://www.reddit.com/r/reactjs/comments/3n62co/react_and_mocha_examples/
+
+### people 
+- dan list : https://medium.com/@dan_abramov/my-react-list-862227952a8c
 
 ### radium
 - making layouts (reddit) : https://www.reddit.com/r/reactjs/comments/3n7qxf/question_on_making_layouts_with_radium_inline/
@@ -80,6 +90,9 @@
 - the tools : http://css-max.com/tools-for-testing-react/                        
 - tool implementation : http://css-max.com/testing-react-tool-implementation/    
 
+### toolkits
+- recompose, a microcomponentization toolkit : https://github.com/acdlite/recompose
+
 ### tuts
 - stateless functions : https://gist.github.com/benhughes/7d28c15b7b03c9c5df83                                                                               
 - Setting up React for ES6 with Webpack and Babel : https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html                              
@@ -98,6 +111,7 @@
 - react-unit : https://github.com/pzavolinsky/react-unit                                                                                                     kkkk
 
 ### webaudio
+- reactjs-drummachine : https://github.com/lukefreeman/ReactJS-DrumMachine
 - react rocks - weaudio : http://react.rocks/tag/Audio                                                                                 
 - drums with undo : http://react.rocks/example/Sequencer_with_Undo                                                                     
 

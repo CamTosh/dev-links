@@ -4,6 +4,10 @@
 
 ### best practices
 - best practices : https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e
+- storing state : https://www.reddit.com/r/reactjs/comments/3nz2u4/help_storing_ui_state_in_redux/
+
+### helpers
+- react-stateless : https://github.com/troch/react-stateless
 
 ### reddit 
 - When using redux, when should react components use this.setState (or should they not)? : https://www.reddit.com/r/reactjs/comments/3mpc0e/when_using_redux_when_should_react_components_use/
@@ -14,6 +18,8 @@
 - docs : http://rackt.github.io/redux/docs/basics/index.html
 
 ### seeds
+- react redux easy boiler : https://github.com/anorudes/redux-easy-boilerplate
+- redux boiler with react 0.14 and stateless function components : https://www.reddit.com/r/reactjs/comments/3o2uxc/redux_boilerplate_with_react_014_and_stateless/
 - react redux : https://react-redux.herokuapp.com/ : https://www.reddit.com/r/reactjs/comments/3nk3re/is_there_a_react_tutorial_that_follows_react/
 - simple-react-redux-starter-kit : https://github.com/luisrudge/simple-react-redux-starter-kit/
 - este : https://github.com/este/este
