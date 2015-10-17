@@ -3,6 +3,9 @@
 ### c++
 - calling : sagivo.com/post/130207525903/nodejs-addons
 
+### case studies
+- mobile.de : http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story
+
 ### docs
 - docs : https://nodejs.org/api/
 

@@ -7,6 +7,9 @@
 - gh basics : https://help.github.com/articles/markdown-basics/
 - gh flavored : https://help.github.com/articles/github-flavored-markdown/
 
+### printing
+- printliminator : https://github.com/CSS-Tricks/The-Printliminator
+
 ### semver
 - good description : http://semver.org/
 

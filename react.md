@@ -76,12 +76,17 @@
 - Manage user input from a parent in a child component : https://www.reddit.com/r/reactjs/comments/3n2ew9/manage_user_input_from_a_parent_in_a_child/
 
 ### resources
+- react-primer-draft : https://github.com/mikechau/react-primer-draft/blob/master/README.md
 - 0.14 : http://facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html                                                                                
 - cheatsheet : http://jamesknelson.com/react-cheatsheet.pdf                                                                                                  
 - reddit : https://www.reddit.com/r/reactjs/                                                                                                                 
 
 ### routing
+- react router a comprehensive intro : http://geek.bluemangointeractive.com/react-router-an-introduction/
 - react and pushstate doing it wrong : http://jamesknelson.com/push-state-vs-hash-based-routing-with-react-js/
+
+### sass
+- styling components in sass : http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
 ### stack libs
 - superagent (ajax) : https://visionmedia.github.io/superagent/

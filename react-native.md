@@ -1,3 +1,5 @@
+## react-native
+
 ### pocs
 - border progress bar : http://josephhsu.com/post/129849031387/react-native-flex-border-progress
 
@@ -12,3 +14,6 @@
 - animations : https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox                        
 - rn for web : https://github.com/KodersLab/react-native-for-web                                                   
 - an ios dev on rn : https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0         
+
+### tuts
+- tucci - rn and redux tutorial : https://medium.com/@clayallsopp/making-tucci-the-technical-details-cc7aded6c75f

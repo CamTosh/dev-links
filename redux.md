@@ -6,6 +6,11 @@
 - best practices : https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e
 - storing state : https://www.reddit.com/r/reactjs/comments/3nz2u4/help_storing_ui_state_in_redux/
 
+### forms
+- redux-form : https://github.com/erikras/redux-form#synchronous-validation
+- react-validation-mixin : https://github.com/jurassix/react-validation-mixin
+- form-generator : https://gist.github.com/penguinsoccer/903cdd4cfe840c842ddc
+
 ### helpers
 - react-stateless : https://github.com/troch/react-stateless
 

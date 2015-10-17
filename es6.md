@@ -4,6 +4,9 @@
 - how to use and sleep at night : https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 - a simple challenge to classical fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
 
+### ebooks
+- understanding es6 : https://leanpub.com/understandinges6/read#leanpub-auto-global-block-bindings
+
 ### features
 - iterators and iterables : http://www.2ality.com/2015/02/es6-iteration.html                                                                                                
 - es6 generators : alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html                                                                       
@@ -19,10 +22,18 @@
 - async apis using fetch and generators : http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/?utm_source=javascriptweekly&utm_medium=email
 
 ### functions
+- strongloop intro : https://strongloop.com/strongblog/an-introduction-to-javascript-es6-arrow-functions/?utm_source=nodeweekly&utm_medium=email
 - never type function again : https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f
 
-### learn
-- ponyfoo series : http://ponyfoo.com/articles/es6-promises-in-depth?utm_source=javascriptweekly&utm_medium=email
+### html books
+- understanding es6 : https://leanpub.com/understandinges6/read#leanpub-auto-global-block-bindings
+
+### iterating
+- over objects : https://esdiscuss.org/topic/es6-iteration-over-object-values
+
+### resources 
+- es6 in depth : https://hacks.mozilla.org/category/es6-in-depth/
+- ponyfoo series : http://ponyfoo.com/articles/es6-promises-in-depth?utm_source=javascriptweekly&utm_medium=email : overview : https://ponyfoo.com/articles/es6
 - babel tut : https://babeljs.io/docs/learn-es2015/
 - moving to babel : http://www.phpied.com/from-jsxtransformer-to-babel 
 

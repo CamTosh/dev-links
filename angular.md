@@ -1,22 +1,29 @@
 ## angular               
 
+### angular-ui
+- mobile issue tooltips : https://github.com/angular-ui/bootstrap/issues/2123
+
 ### best practices
 - best practice recommendations for angular app structure : https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
 - what goes where : http://demisx.github.io/angularjs/2014/09/14/angular-what-goes-where.html
 - componentized angular development : http://labs.bench.co/2015/1/21/componentized-angular
 - paypal : https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef
-- john papa styleguid : https://github.com/johnpapa/angular-styleguide
+- john papa styleguide : https://github.com/johnpapa/angular-styleguide
 
 ### controller as 
+- digging into : http://toddmotto.com/digging-into-angulars-controller-as-syntax/
 - thoughts on : http://odetocode.com/blogs/scott/archive/2014/08/11/thoughts-on-angular-controller-as-syntax.aspx
 
 ### es6 
+- using with angular today : http://blog.thoughtram.io/angularjs/es6/2015/01/23/exploring-angular-1.3-using-es6.html
 - ng6 starter : https://github.com/angular-class/NG6-starter
 - tim roes : https://www.timroes.de/2015/07/29/using-ecmascript-6-es6-with-angularjs-1-x/
 -   + repo : https://github.com/timroes/angular-es6-sample
 
-### gulp
+### generator-gulp-angular 
 - swiip generator-gulp-angular : https://github.com/Swiip/generator-gulp-angular                                    
+- generator-gulp-angular-subtask : https://www.npmjs.com/package/generator-gulp-angular-subtask
+- improving generator-gulp-angular : http://david-barreto.com/improving-the-yeoman-generator-gulp-angular-sass/
 - a healthy setup for gulp-angular projects : http://paislee.io/a-healthy-gulp-setup-for-angularjs-projects/
 
 ### gulp / browserify
@@ -35,8 +42,6 @@
 
 ### libs
 - angular-fng (faster directives) : http://www.adamcraven.me/increasing-performance-on-large-angular-apps/
-
-### seeds
 
 ### testing 
 - es6 test workflow : http://busypeoples.github.io/post/testing-angular-es6/
