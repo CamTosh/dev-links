@@ -10,6 +10,9 @@
 - helmet : http://helmetrex.com/                                  
 - react-ui-builder : https://github.com/ipselon/react-ui-builder  
 
+### cheat sheet
+- reactcheatsheet : http://reactcheatsheet.com/
+
 ### cms
 - relax : https://github.com/relax/relax
 
@@ -33,6 +36,7 @@
 - new devtools : http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html 
 
 ### es6
+- migrating to es6 with babel and eslint : https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
 - es6 react game-like approach : https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643                                       
 - react on es6 : http://babeljs.io/blog/2015/06/07/react-on-es6-plus/                                                                                                       
 - reddit react discussion : https://www.reddit.com/r/reactjs/comments/3mc5op/do_you_guys_use_es6/
@@ -46,6 +50,9 @@
 ### examples
 - react-elmish-counter : http://react.rocks/example/react-elmish-example
 - 10/5 : https://www.reddit.com/r/reactjs/comments/3nkk1i/last_weeks_reactjs_examples/
+
+### falcor
+- react, falcor, and es6 :  http://engineering.widen.com/blog/future-of-the-web-react-falcor/?utm_source=javascriptweekly&utm_medium=email
 
 ### functional
 - understanding the functional revolution : http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/                     
@@ -90,6 +97,9 @@
 
 ### stack libs
 - superagent (ajax) : https://visionmedia.github.io/superagent/
+
+### style guides
+- khan academy : https://github.com/Khan/style-guides/blob/master/style/react.md
 
 ### testing
 - the tools : http://css-max.com/tools-for-testing-react/                        

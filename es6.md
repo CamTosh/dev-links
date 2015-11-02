@@ -28,6 +28,9 @@
 ### html books
 - understanding es6 : https://leanpub.com/understandinges6/read#leanpub-auto-global-block-bindings
 
+### inheritance
+- simple challenge to classical fans : https://medium.com/@rauschma/i-would-never-argue-that-es6-classes-are-clearly-a-better-choice-than-composition-modules-or-891e462da85b
+
 ### iterating
 - over objects : https://esdiscuss.org/topic/es6-iteration-over-object-values
 

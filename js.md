@@ -18,6 +18,8 @@
 - promisees : http://bevacqua.github.io/promisees/                                                           
 - awesome promises : https://github.com/wbinnssmith/awesome-promises                                         
 
+### style guides
+- air bnb : https://github.com/airbnb/javascript
 
 ### native functions
 #### strings

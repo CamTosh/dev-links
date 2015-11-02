@@ -13,6 +13,7 @@
 ### controller as 
 - digging into : http://toddmotto.com/digging-into-angulars-controller-as-syntax/
 - thoughts on : http://odetocode.com/blogs/scott/archive/2014/08/11/thoughts-on-angular-controller-as-syntax.aspx
+- skinny controllers : https://scotch.io/tutorials/making-skinny-angularjs-controllers
 
 ### es6 
 - using with angular today : http://blog.thoughtram.io/angularjs/es6/2015/01/23/exploring-angular-1.3-using-es6.html
@@ -21,6 +22,7 @@
 -   + repo : https://github.com/timroes/angular-es6-sample
 
 ### generator-gulp-angular 
+- how css/js is bundled : https://github.com/Swiip/generator-gulp-angular/issues/413
 - swiip generator-gulp-angular : https://github.com/Swiip/generator-gulp-angular                                    
 - generator-gulp-angular-subtask : https://www.npmjs.com/package/generator-gulp-angular-subtask
 - improving generator-gulp-angular : http://david-barreto.com/improving-the-yeoman-generator-gulp-angular-sass/
@@ -35,16 +37,25 @@
 - codecentric (2014) : https://blog.codecentric.de/en/2014/08/angularjs-browserify/
 - ben clinken slides : http://benclinkinbeard.com/talks/2014/ng-conf/#/1
 
+### inputs
+- fire event when selecting outside text input : https://docs.angularjs.org/api/ng/directive/ngModelOptions                        
+
 ### internals 
 - $scope/$watch es6 : http://nazargargol.com/scope-watch-with-angular-es6-class/
 - $apply $digest #evalAsync : http://www.panda-os.com/2015/01/angularjs-apply-digest-and-evalasync/#.Vg6qzhNViko
 - $scope.watch, digest/apply in angular (reddit) : https://www.reddit.com/r/angularjs/comments/3mxvoh/scopewatch_digestapply_in_angular/
 
 ### libs
+- angular-filter : https://github.com/a8m/angular-filter
 - angular-fng (faster directives) : http://www.adamcraven.me/increasing-performance-on-large-angular-apps/
+
+### promises
+- promises and $q to handle async : http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/
 
 ### testing 
 - es6 test workflow : http://busypeoples.github.io/post/testing-angular-es6/
+- services : http://stackoverflow.com/questions/19953294/angularjs-how-to-correctly-replace-service-dependency-with-a-mock
+- mock service into a filter : http://stackoverflow.com/questions/15294500/how-can-i-inject-a-mock-service-into-a-unit-test-for-a-filter?rq=1
 
 ### tuts
 - movie search app es6 : http://cameronjroe.com/writing/code/angular-movie-search/
