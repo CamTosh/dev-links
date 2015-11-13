@@ -6,6 +6,8 @@
 ### apis 
 - programmable web : http://www.programmableweb.com/
 - postman : https://www.getpostman.com/
+- insomnia : http://insomnia.rest/
+- dhc : chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/dhc.html
 
 ### chrome extensions
 - dhc : chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/dhc.html
@@ -20,6 +22,9 @@
 ### printing
 - printliminator : https://github.com/CSS-Tricks/The-Printliminator
 
+### resources
+- json placeholder : http://jsonplaceholder.typicode.com/
+
 ### semver
 - good description : http://semver.org/
 
@@ -32,3 +37,5 @@
 ### websockets
 - docs : http://socket.io/
 
+### web workers
+- jason tepliz video : https://www.youtube.com/watch?v=Kz_zKXiNGSE

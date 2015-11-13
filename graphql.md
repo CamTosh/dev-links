@@ -11,3 +11,6 @@
 - from rest to graphql : https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b : hn :
 https://news.ycombinator.com/item?id=10365555
 - thinking in graphql : https://facebook.github.io/relay/docs/thinking-in-graphql.html
+
+### videos
+- lee byron : https://vimeo.com/144817545

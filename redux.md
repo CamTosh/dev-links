@@ -33,6 +33,7 @@
 - redux-starter-kit :https://github.com/davezuko/react-redux-starter-kit                                                            
 
 ### tuts
+- code cartoon : https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.cqy6vtpdb
 - tero full stack tut : http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 - what the flux : https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux
 - redux scaffold : https://github.com/lcjnil/react-redux-scaffold                                                

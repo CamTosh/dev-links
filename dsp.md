@@ -16,6 +16,7 @@
 - real time fourier : http://www.ejectamenta.com/Imaging-Experiments/fourierimagefiltering.html                                                                    
 
 ### tuts
+- basicsynth (c) : http://basicsynth.com/
 - dsp doghouse : https://www.objc.io/issues/24-audio/audio-dog-house/                                                                  
 - mathematics of the dft : https://ccrma.stanford.edu/~jos/st/                                                                                                     
 

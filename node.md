@@ -3,6 +3,14 @@
 ### auth
 - natp : https://github.com/guyht/notp
 
+### best practices
+- 10 habits happy devs 2016 : http://blog.heroku.com/archives/2015/11/10/node-habits-2016?utm_source=nodeweekly&utm_medium=email
+
+### books
+- node.js in action : https://www.manning.com/books/node-js-in-action-second-edition?a_aid=codegeek
+- node patterns : http://nodepatternsbooks.com/
+- hapi.js in action : https://www.manning.com/books/hapi-js-in-action
+
 ### c++
 - calling : sagivo.com/post/130207525903/nodejs-addons
 

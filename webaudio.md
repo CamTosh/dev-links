@@ -3,13 +3,22 @@
 ### devtools
 - chrome devtools extension : https://github.com/spite/WebAudioExtension                                                               
 
+### environments
+- wavepot : http://wavepot.com/
+
 ### ios
 - ios 9 issues : http://www.holovaty.com/writing/ios9-web-audio/                                                                       
 
 ### libs
+- dilla.js : https://www.npmjs.com/package/dilla
+- qwak : https://github.com/adamrenklint/qwak
+- bap : http://bapjs.org/
 - beet.js : https://github.com/zya/beet.js                                                                                             
 
 ### tuts
+- using expressions in dilla : http://adamrenklint.com/using-expressions-in-dilla/
+- lazy kicks eager snares : http://adamrenklint.com/lazy-kicks-eager-snares/
+- Making a boombap beat with Dilla and the Web Audio API : http://adamrenklint.com/making-boombap-beat-with-dilla/
 - armando tut : http://www.sitepoint.com/html5-web-audio-api-tutorial-building-virtual-synth-pad/
 - sound design in webaudio neurofunk : http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-1/   : http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-2/                                                      
 - virtual audio graph : https://github.com/benji6/virtual-audio-graph :                                                                                                                      
@@ -30,6 +39,9 @@
 
 ### synthesis
 - synthesis examples : http://blog.chrislowis.co.uk/2015/06/26/a-brief-history-of-synthesis.html                                       
+
+### tracks w/ code
+- dilla boombap demo : https://github.com/adamrenklint/dilla-boombap-demo
 
 ### works
 - scrolling through sound : http://zya.github.io/scrollsound/                                                                          

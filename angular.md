@@ -15,6 +15,12 @@
 - thoughts on : http://odetocode.com/blogs/scott/archive/2014/08/11/thoughts-on-angular-controller-as-syntax.aspx
 - skinny controllers : https://scotch.io/tutorials/making-skinny-angularjs-controllers
 
+### cors
+- angular and cors : http://draptik.github.io/blog/2013/08/19/angularjs-and-cors/
+- fiddle : http://jsfiddle.net/ricardohbin/e3yet/
+- kk : https://gist.github.com/kkurni/4618210
+- with resource : http://stackoverflow.com/questions/16554270/how-to-configure-angular-resource-ngresource-to-pull-data-from-another-domain
+
 ### es6 
 - using with angular today : http://blog.thoughtram.io/angularjs/es6/2015/01/23/exploring-angular-1.3-using-es6.html
 - ng6 starter : https://github.com/angular-class/NG6-starter
@@ -36,6 +42,9 @@
 - npm post re: 1.3 : https://blog.codecentric.de/en/2014/08/angularjs-browserify/
 - codecentric (2014) : https://blog.codecentric.de/en/2014/08/angularjs-browserify/
 - ben clinken slides : http://benclinkinbeard.com/talks/2014/ng-conf/#/1
+
+### http
+- posting form data : http://www.bennadel.com/blog/2615-posting-form-data-with-http-in-angularjs.htm
 
 ### inputs
 - fire event when selecting outside text input : https://docs.angularjs.org/api/ng/directive/ngModelOptions                        

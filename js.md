@@ -19,6 +19,7 @@
 - awesome promises : https://github.com/wbinnssmith/awesome-promises                                         
 
 ### style guides
+- khan : https://github.com/Khan/style-guides/blob/master/style/javascript.md#dont-use-underscore
 - air bnb : https://github.com/airbnb/javascript
 
 ### native functions
