@@ -3,9 +3,17 @@
 ### dependencies 
 - s.o. : http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies
 
+### es6
+- using today : http://mammal.io/articles/using-es6-today/
+
 ### front end
 - npm for everything : http://beletsky.net/2015/04/npm-for-everything.html
 - npm on as f.e. : http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging
+
+### commonjs modules
+- writing your first : http://blog.modulus.io/writing-your-first-npm-module
+- creating : https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
+- commonjs spec : http://www.commonjs.org/specs/modules/1.0/
 
 ### package.json 
 - docs : https://docs.npmjs.com/files/package.json

@@ -3,10 +3,15 @@
 ### async
 - history : blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
 
+### composition
+- mpjme over inheritance vid : https://www.youtube.com/watch?v=wfMtDGfHWpA
+- mpjme factory functions js : https://www.youtube.com/watch?v=ImwrezYhw4w&annotation_id=eab57fc0-790e-4e8e-89fd-5ab7fd16344e&src_vid=wfMtDGfHWpA&feature=cards
+
 ### libs
 - eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
 
 ### inheritance
+- simple challenge to fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
 - common misconceptions : https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
 
 ### info
@@ -14,9 +19,18 @@
 - js engines for idiots : developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/           
 - 10 interview questions : https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
+### groups
+- jskicks : https://javascriptkicks.com/
+
 ### promises
 - promisees : http://bevacqua.github.io/promisees/                                                           
 - awesome promises : https://github.com/wbinnssmith/awesome-promises                                         
+
+### stamps
+- spec : https://github.com/stampit-org/stamp-specification
+- react-stamp : https://github.com/stampit-org/react-stamp
+- stampit : https://github.com/stampit-org/stampit
+- introducing post : https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee
 
 ### style guides
 - khan : https://github.com/Khan/style-guides/blob/master/style/javascript.md#dont-use-underscore

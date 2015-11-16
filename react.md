@@ -6,6 +6,9 @@
 ### best practices
 - common mistakes unneeded state : http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/
 
+### books
+- eric elliot learn universal app dev : https://leanpub.com/learn-javascript-react-nodejs-es6/
+
 ### builders
 - helmet : http://helmetrex.com/                                  
 - react-ui-builder : https://github.com/ipselon/react-ui-builder  
@@ -18,6 +21,9 @@
 
 ### components
 - react-slide-menu : https://github.com/sap9433/react-slide-menu
+
+### composition
+- Mixins Are Dead. Long Live Composition : https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
 
 ### css
 - css modules webpack demo : https://css-modules.github.io/webpack-demo/

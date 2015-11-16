@@ -34,6 +34,9 @@
 ### iterating
 - over objects : https://esdiscuss.org/topic/es6-iteration-over-object-values
 
+### libs
+- standard library : https://github.com/zloirock/core-js
+
 ### resources 
 - es6 in depth : https://hacks.mozilla.org/category/es6-in-depth/
 - ponyfoo series : http://ponyfoo.com/articles/es6-promises-in-depth?utm_source=javascriptweekly&utm_medium=email : overview : https://ponyfoo.com/articles/es6

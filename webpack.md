@@ -1,5 +1,10 @@
 ## webpack 
 
+### css modules 
+- webpack demo : https://github.com/css-modules/webpack-demo
+- the end of global css : https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
+- welcome to the future : https://medium.com/@olegafx/frontend-welcome-to-the-future-91ff064884b6
+
 ### deployment
 - webpack-heroku : https://github.com/wallacyyy/webpack-heroku
 - deploying your react app to heroku with webpack : http://ditrospecta.com/javascript/react/es6/webpack/heroku/2015/08/08/deploying-react-webpack-heroku.html
