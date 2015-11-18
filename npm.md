@@ -10,6 +10,9 @@
 - npm for everything : http://beletsky.net/2015/04/npm-for-everything.html
 - npm on as f.e. : http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging
 
+### install
+- no more global : http://www.joezimjs.com/javascript/no-more-global-npm-packages/
+
 ### commonjs modules
 - writing your first : http://blog.modulus.io/writing-your-first-npm-module
 - creating : https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
@@ -34,4 +37,8 @@
 ```
 $ npm list -g --depth=0 
 ( list globally installed modules )
+```
+```
+$ npm cache clean
+```
 ```

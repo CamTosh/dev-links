@@ -38,6 +38,10 @@ $ grep -lr '<<<<<<<' . | xargs git checkout --ours
 ( checkout all local with merge conflicts )
 ```
 ```
+$ git config --global url."https://".insteadOf git://
+( change protocol )
+```
+
 
 ALTER TABLE `pharma`.`physicians` 
 ADD COLUMN `PRE_MARKET_TRX` INT(11) NULL COMMENT '' AFTER `Account Size Segmentation`,
