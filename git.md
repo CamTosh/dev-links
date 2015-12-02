@@ -41,6 +41,10 @@ $ grep -lr '<<<<<<<' . | xargs git checkout --ours
 $ git config --global url."https://".insteadOf git://
 ( change protocol )
 ```
+```
+$ git config --global credential.helper osxkeychain
+( clear cached passwords )
+```
 
 
 ALTER TABLE `pharma`.`physicians` 

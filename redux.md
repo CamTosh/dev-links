@@ -6,6 +6,9 @@
 - best practices : https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e
 - storing state : https://www.reddit.com/r/reactjs/comments/3nz2u4/help_storing_ui_state_in_redux/
 
+### cursors
+- why lack of : https://github.com/rackt/redux/issues/155#issuecomment-113898044
+
 ### forms
 - redux-form : https://github.com/erikras/redux-form#synchronous-validation
 - react-validation-mixin : https://github.com/jurassix/react-validation-mixin
@@ -14,6 +17,9 @@
 ### helpers
 - react-stateless : https://github.com/troch/react-stateless
 
+### libs
+- redux-await : https://github.com/kolodny/redux-await
+
 ### reddit 
 - When using redux, when should react components use this.setState (or should they not)? : https://www.reddit.com/r/reactjs/comments/3mpc0e/when_using_redux_when_should_react_components_use/
 - Beginner Question - Two Children / One Parent Sharing props : https://www.reddit.com/r/reactjs/comments/3mrvkk/beginner_question_two_children_one_parent_sharing/
@@ -21,6 +27,9 @@
 
 ### resources
 - docs : http://rackt.github.io/redux/docs/basics/index.html
+
+### routing
+- simple way : http://jlongster.com/A-Simple-Way-to-Route-with-Redux
 
 ### seeds
 - react redux easy boiler : https://github.com/anorudes/redux-easy-boilerplate
@@ -46,3 +55,6 @@
 - adrenaline : redux/relay bindings : https://github.com/gyzerok/adrenaline                                      
 - react-relay-redux : https://github.com/cdebotton/react-relay-redux                                             
 - thread : https://github.com/rackt/redux/issues/464                                                             
+
+### videos
+- egghead : https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?series=getting-started-with-redux

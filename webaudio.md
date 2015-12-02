@@ -1,5 +1,9 @@
 ## webaudio
 
+### amplitude modulation
+- km : http://www.keithmcmillen.com/blog/simple-synthesis-part-9-amplitude-modulation/
+- km : http://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-and-midi-api-amplitude-modulation/
+
 ### devtools
 - chrome devtools extension : https://github.com/spite/WebAudioExtension                                                               
 

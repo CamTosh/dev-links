@@ -16,7 +16,9 @@
 - cli : https://github.com/jspm/jspm-cli/blob/master/docs/getting-started.md
 
 ### seeds 
+- sample react redux jspm : https://github.com/earlsioson/sample-react-redux-jspm
 - jspm-react : https://github.com/capaj/jspm-react
+- fork of es6-jspm-gulp-boilerplate (with working tests) : https://github.com/christianharke/es6-jspm-gulp-boilerplate
 - es6-jspm-gulp-boilerplate : https://github.com/alexweber/es6-jspm-gulp-boilerplate
 
 ### tuts 

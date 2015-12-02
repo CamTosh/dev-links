@@ -4,6 +4,7 @@
 - mobile issue tooltips : https://github.com/angular-ui/bootstrap/issues/2123
 
 ### best practices
+- anatomy of a large angular app : https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994
 - best practice recommendations for angular app structure : https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
 - what goes where : http://demisx.github.io/angularjs/2014/09/14/angular-what-goes-where.html
 - componentized angular development : http://labs.bench.co/2015/1/21/componentized-angular
@@ -65,12 +66,17 @@
 - promises and $q to handle async : http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/
 
 ### testing 
+- promises : http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html
 - es6 test workflow : http://busypeoples.github.io/post/testing-angular-es6/
 - services : http://stackoverflow.com/questions/19953294/angularjs-how-to-correctly-replace-service-dependency-with-a-mock
 - mock service into a filter : http://stackoverflow.com/questions/15294500/how-can-i-inject-a-mock-service-into-a-unit-test-for-a-filter?rq=1
 
 ### tuts
 - movie search app es6 : http://cameronjroe.com/writing/code/angular-movie-search/
+
+### ui-sortable
+- multiple lists : http://codepen.io/mrev/pen/pjMyxJ?editors=101
+- duplicates bug : https://github.com/angular-ui/ui-sortable/issues/146
 
 ### webpack 
 - shmck seed series : https://github.com/ShMcK/WebpackAngularDemos : post : http://www.shmck.com/webpack-angular-part-3/

@@ -38,6 +38,9 @@
 - 3 steps to scalable data viz : https://www.codementor.io/reactjs/tutorial/3-steps-scalable-data-visualization-react-js-d3-js
 - reusable chart components : http://busypeoples.github.io/post/d3-with-react-js/
 
+### data fetching
+- react-resolver : https://github.com/ericclemmons/react-resolver
+
 ### devtools
 - new devtools : http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html 
 

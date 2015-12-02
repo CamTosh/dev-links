@@ -3,6 +3,9 @@
 ### async
 - history : blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
 
+### books
+- js allonge : https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong
+
 ### composition
 - mpjme over inheritance vid : https://www.youtube.com/watch?v=wfMtDGfHWpA
 - mpjme factory functions js : https://www.youtube.com/watch?v=ImwrezYhw4w&annotation_id=eab57fc0-790e-4e8e-89fd-5ab7fd16344e&src_vid=wfMtDGfHWpA&feature=cards
@@ -35,6 +38,9 @@
 ### style guides
 - khan : https://github.com/Khan/style-guides/blob/master/style/javascript.md#dont-use-underscore
 - air bnb : https://github.com/airbnb/javascript
+
+### versioning
+- 2ality : http://www.2ality.com/2015/11/tc39-process.html
 
 ### native functions
 #### strings

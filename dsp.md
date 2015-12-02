@@ -1,9 +1,13 @@
 ## dsp
 
 ### books
+- understanding dsp : http://www.amazon.com/Understanding-Digital-Signal-Processing-Edition/dp/0137027419
+- dspguide : http://www.dspguide.com/
+- dspguru : http://www.dspguru.com/
 - thinkdsp : http://greenteapress.com/thinkdsp/     
 
 ### courses
+- coursera audio signal processing for music applications : https://class.coursera.org/audio-002
 - coursera dsp course : https://class.coursera.org/audio-002/auth : https://www.coursera.org/course/audio                                                                   
 - http://online.stanford.edu/course/audio-signal-processing-music-applications-Fall_2015                                                                           
 - https://www.coursera.org/course/audio                                                                                                                            
