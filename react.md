@@ -4,7 +4,9 @@
 - velocity react lib : https://fabric.io/blog/introducing-the-velocityreact-library
 
 ### best practices
+- how to structure a project : http://reactjsnews.com/structuring-react-projects/
 - common mistakes unneeded state : http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/
+- es6 classes or createClass? : https://www.reddit.com/r/reactjs/comments/3udbyj/es6_classes_or_createclass/
 
 ### books
 - eric elliot learn universal app dev : https://leanpub.com/learn-javascript-react-nodejs-es6/
@@ -20,7 +22,11 @@
 - relax : https://github.com/relax/relax
 
 ### components
+- input-moment : https://github.com/wangzuo/input-moment
 - react-slide-menu : https://github.com/sap9433/react-slide-menu
+
+### components - collections
+- khan : http://khan.github.io/react-components/
 
 ### composition
 - Mixins Are Dead. Long Live Composition : https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
@@ -28,7 +34,10 @@
 ### css
 - css modules webpack demo : https://css-modules.github.io/webpack-demo/
 - radium : http://projects.formidablelabs.com/radium/   
-- css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/ 
+- css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/
+
+### data visualization
+- talk : http://communitycasts.co/screencast/2ii1lEkIv1s
 
 ### d3
 - formidable tut pt1 layouts : http://formidablelabs.com/blog/2015/05/21/react-d3-layouts/
@@ -42,7 +51,7 @@
 - react-resolver : https://github.com/ericclemmons/react-resolver
 
 ### devtools
-- new devtools : http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html 
+- new devtools : http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
 
 ### es6
 - migrating to es6 with babel and eslint : https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
@@ -66,7 +75,7 @@
 ### functional
 - understanding the functional revolution : http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/                     
 
-### flow 
+### flow
 - docs : http://flowtype.org/  
 
 ### libs
@@ -82,7 +91,7 @@
 ### mocha
 - react and mocha : https://www.reddit.com/r/reactjs/comments/3n62co/react_and_mocha_examples/
 
-### people 
+### people
 - dan list : https://medium.com/@dan_abramov/my-react-list-862227952a8c
 
 ### radium
@@ -121,7 +130,7 @@
 - stateless functions : https://gist.github.com/benhughes/7d28c15b7b03c9c5df83                                                                               
 - Setting up React for ES6 with Webpack and Babel : https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html                              
 - building a simple component : http://www.carlrippon.com/?p=393
-- Building modular javascript applications in ES6 with React, Webpack and Babel : https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react- 
+- Building modular javascript applications in ES6 with React, Webpack and Babel : https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react-
 +++webpack-and-babel-538189cd485f                                                                                                                                           
 - learn raw react : jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/                                                                                
 - scotch : https://scotch.io/tutorials/learning-react-getting-started-and-concepts                                                                           
@@ -140,8 +149,10 @@
 - drums with undo : http://react.rocks/example/Sequencer_with_Undo                                                                     
 
 ### webgl
-- spring : http://react.rocks/example/GL-react_Spring 
+- spring : http://react.rocks/example/GL-react_Spring
 
 ### webpack
 - hjs-webpack : http://benclinkinbeard.com/posts/up-and-running-with-es6-and-react-in-under-5-minutes/                  
 
+### web workers
+- using : http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html

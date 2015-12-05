@@ -32,7 +32,7 @@
 - ai to svg lava lamp : http://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp
 
 ### utilities
-- DHC hrome extension : https://chrome.google.com/webstore/detail/dhc-resthttp-api-client/aejoelaoggembcahagimdiliamlcdmfm?hl=en
+- DHC hrome extension : https://chrome.google.com/webstore/detail/dhc-resthttp-api-client/aejoelaoggembcahagimdiliamlcdmfm?hl=en : chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/dhc.html
 
 ### websockets
 - docs : http://socket.io/

@@ -1,5 +1,8 @@
 ## cs
 
+### algorithms
+- js : https://github.com/nzakas/computer-science-in-javascript
+
 ### automata
 - Index 1,600,000,000 Keys with Automata and Rust : http://blog.burntsushi.net/transducers/
 
