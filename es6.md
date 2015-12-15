@@ -37,17 +37,14 @@
 ### libs
 - standard library : https://github.com/zloirock/core-js
 
-### resources 
+### repl
+- es6 repl : http://jsoverson.github.io/es6repl
+- babel-repl : https://github.com/paulserraino/babel-repl
+
+### resources
+- es6 learning : https://github.com/ericdouglas/ES6-Learning
+- formidable interactive guide : http://projects.formidablelabs.com/es6-interactive-guide/#/
 - es6 in depth : https://hacks.mozilla.org/category/es6-in-depth/
 - ponyfoo series : http://ponyfoo.com/articles/es6-promises-in-depth?utm_source=javascriptweekly&utm_medium=email : overview : https://ponyfoo.com/articles/es6
 - babel tut : https://babeljs.io/docs/learn-es2015/
-- moving to babel : http://www.phpied.com/from-jsxtransformer-to-babel 
-
-
-                                                                                                                                                                            
-
-
-
-
-
-
+- moving to babel : http://www.phpied.com/from-jsxtransformer-to-babel

@@ -24,12 +24,12 @@
 - home : https://code.facebook.com/posts/397706937084869/
 
 ### packages
-- autoclose-html : (automatically add closing tags html) : https://atom.io/packages/autoclose-html
-- atom-beautify : https://atom.io/packages/atom-beautify
-- atom-terminal : https://atom.io/packages/atom-terminal
-- gulp-manager : https://atom.io/packages/gulp-manager
+- terminal-plus : https://atom.io/packages/terminal-plus
 - nuclide : https://atom.io/packages/nuclide-installer : https://github.com/facebook/nuclide
 - vim-mode : https://github.com/atom/vim-mode
+- autoclose-html : (automatically add closing tags html) : https://atom.io/packages/autoclose-html
+- atom-beautify : https://atom.io/packages/atom-beautify
+- gulp-manager : https://atom.io/packages/gulp-manager
 
 ### posts
 - autocomplete overview : http://blog.atom.io/2015/05/15/new-autocomplete.html
@@ -46,3 +46,12 @@
 - ctrl-0 : move focus tree/files
 - ctrl-r : find function/method
 - shift-k-b : open sidebar
+- ctrl-g : go to line
+- command-/ : toggle comment
+- ctrl-(backtick) : toggle terminal plus
+- ctrl-m : goto matching bracket
+- ctrl-shift-m : show markdown preview (takes a second to load)
+- ctrl-tab : next tab
+- ctrl-shift-tab : previous tab
+- command-ctrl arrow keys : next/prev tab
+- ctrl-shift arrow keys : move tab

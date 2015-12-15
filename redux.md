@@ -1,3 +1,11 @@
+## redux
+
+### actions
+- redux-actions : https://github.com/acdlite/redux-actions
+
+### animation
+- Redux/Flux animation confusion (thread) : https://www.reddit.com/r/reactjs/comments/3vw7xq/reduxflux_animation_confusion/
+
 ### async
 - react-redux-axios spinner : https://github.com/oviava/react-redux-axios-example
 - redux-utils async : https://github.com/penguinsoccer/redux-utils-example
@@ -9,8 +17,14 @@
 ### cursors
 - why lack of : https://github.com/rackt/redux/issues/155#issuecomment-113898044
 
+### devtools
+- devtool repo : https://github.com/gaearon/redux-devtools
+
 ### docs
-- : http://redux.js.org/ 
+- : http://redux.js.org/
+
+### example apps
+- portfolio app : http://react.rocks/example/portfolio-redux-app
 
 ### forms
 - redux-form : https://github.com/erikras/redux-form#synchronous-validation

@@ -18,6 +18,9 @@
 ### cheat sheet
 - reactcheatsheet : http://reactcheatsheet.com/
 
+### class
+- component vs createClass : http://reactjsnews.com/composing-components/
+
 ### cms
 - relax : https://github.com/relax/relax
 
@@ -37,6 +40,7 @@
 - css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/
 
 ### data visualization
+- victory : http://projects.formidablelabs.com/victory/docs/victory-axis/
 - talk : http://communitycasts.co/screencast/2ii1lEkIv1s
 
 ### d3
@@ -82,11 +86,18 @@
 - petehunt/jxstyle : https://github.com/petehunt/jsxstyle
 - velocity-react : https://fabric.io/blog/introducing-the-velocityreact-library
 - classNames : https://github.com/JedWatson/classnames
-- belle : http://nikgraf.github.io/belle/#/                                                                                                                  
+- belle : http://nikgraf.github.io/belle/#/                                                        
 - forms : http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/         
 - selectize : http://furqanzafar.github.io/react-selectize/                          
 - khan : https://khan.github.io/react-components/                                    
 - lib : https://github.com/Gozala/reflex
+
+### list/tabs
+- react-virtualized : https://github.com/bvaughn/react-virtualized
+
+### mixins
+- react-mixin : https://github.com/brigand/react-mixin
+- mixins by example : http://simblestudios.com/blog/development/react-mixins-by-example.html
 
 ### mocha
 - react and mocha : https://www.reddit.com/r/reactjs/comments/3n62co/react_and_mocha_examples/
@@ -102,16 +113,18 @@
 
 ### resources
 - react-primer-draft : https://github.com/mikechau/react-primer-draft/blob/master/README.md
-- 0.14 : http://facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html                                                                                
-- cheatsheet : http://jamesknelson.com/react-cheatsheet.pdf                                                                                                  
+- 0.14 : http://facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html                                         
+- cheatsheet : http://jamesknelson.com/react-cheatsheet.pdf                                                            
 - reddit : https://www.reddit.com/r/reactjs/                                                                                                                 
-
 ### routing
 - react router a comprehensive intro : http://geek.bluemangointeractive.com/react-router-an-introduction/
 - react and pushstate doing it wrong : http://jamesknelson.com/push-state-vs-hash-based-routing-with-react-js/
 
 ### sass
 - styling components in sass : http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
+
+### seeds
+- react starter aggregator : http://andrewhfarmer.com/starter-project/
 
 ### stack libs
 - superagent (ajax) : https://visionmedia.github.io/superagent/
@@ -153,6 +166,9 @@
 
 ### webpack
 - hjs-webpack : http://benclinkinbeard.com/posts/up-and-running-with-es6-and-react-in-under-5-minutes/                  
+
+### web components
+- discussion : https://github.com/facebook/react/issues/5052
 
 ### web workers
 - using : http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html

@@ -11,6 +11,8 @@
 - coursera dsp course : https://class.coursera.org/audio-002/auth : https://www.coursera.org/course/audio                                                                   
 - http://online.stanford.edu/course/audio-signal-processing-music-applications-Fall_2015                                                                           
 - https://www.coursera.org/course/audio                                                                                                                            
+### fft
+- math behind homer simpsons face : http://nautil.us/blog/the-math-trick-behind-mp3s-jpegs-and-homer-simpsons-face
 
 ### python
 - audio programming in python : http://pythonaudio.blogspot.com/2014/03/1-introduction-to-ipython-environment.html                                                 

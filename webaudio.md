@@ -5,19 +5,22 @@
 - km : http://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-and-midi-api-amplitude-modulation/
 
 ### devtools
-- chrome devtools extension : https://github.com/spite/WebAudioExtension                                                               
+- chrome devtools extension : https://github.com/spite/WebAudioExtension              
 
 ### environments
 - wavepot : http://wavepot.com/
 
 ### ios
-- ios 9 issues : http://www.holovaty.com/writing/ios9-web-audio/                                                                       
+- ios 9 issues : http://www.holovaty.com/writing/ios9-web-audio/                   
+
+### issues
+- webaudio gotchas : https://github.com/Jam3/web-audio-player#webaudio-gotchas
 
 ### libs
 - dilla.js : https://www.npmjs.com/package/dilla
 - qwak : https://github.com/adamrenklint/qwak
 - bap : http://bapjs.org/
-- beet.js : https://github.com/zya/beet.js                                                                                             
+- beet.js : https://github.com/zya/beet.js                                                       
 
 ### tuts
 - using expressions in dilla : http://adamrenklint.com/using-expressions-in-dilla/
@@ -25,12 +28,12 @@
 - Making a boombap beat with Dilla and the Web Audio API : http://adamrenklint.com/making-boombap-beat-with-dilla/
 - armando tut : http://www.sitepoint.com/html5-web-audio-api-tutorial-building-virtual-synth-pad/
 - sound design in webaudio neurofunk : http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-1/   : http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-2/                                                      
-- virtual audio graph : https://github.com/benji6/virtual-audio-graph :                                                                                                                      
+- virtual audio graph : https://github.com/benji6/virtual-audio-graph :                                                      
 - elemental : https://github.com/benji6/elemental
 - pentaphone (uses react) : https://github.com/billgathen/pentaphone                                                                   
 - live-looper : https://news.ycombinator.com/item?id=10288219                                                                          
 - wad : https://github.com/rserota/wad                                                                                                 
-- creating ui : vid : https://www.youtube.com/watch?v=tSThM9Aw8ps : https://sound.io/ 
+- creating ui : vid : https://www.youtube.com/watch?v=tSThM9Aw8ps : https://sound.io/
 - tale of no clocks : http://joesul.li/van/tale-of-no-clocks/                                                                          
 - applying react to webaudio : http://interstellarechidna.com/2014/11/react-beyond-the-dom-experiments-in-applying-react-to-pixi-js-three-js-and-web-audio/ : https://github.com/Izzimach/react-webaudio  
 - smooth fade (automation) : https://github.com/notthetup/smoothfade                                                                   
@@ -48,7 +51,8 @@
 - dilla boombap demo : https://github.com/adamrenklint/dilla-boombap-demo
 
 ### works
-- scrolling through sound : http://zya.github.io/scrollsound/                                                                          
-- typedrummer : http://typedrummer.com/                                                                                                
-- spins visualizer : https://github.com/mattdesl/spins                                                                                 
-- guitar tuner : https://aerotwist.com/blog/guitar-tuner/                                                                              
+- dj app : https://blog.2decks.com/2015/11/20/worlds-1st-html5-dj-app/
+- scrolling through sound : http://zya.github.io/scrollsound/                                           
+- typedrummer : http://typedrummer.com/                                                                         
+- spins visualizer : https://github.com/mattdesl/spins                                                          
+- guitar tuner : https://aerotwist.com/blog/guitar-tuner/                                                       

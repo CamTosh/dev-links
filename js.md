@@ -1,4 +1,4 @@
-## js 
+## js
 
 ### async
 - history : blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
@@ -12,6 +12,9 @@
 
 ### libs
 - eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
+
+### functional
+- 10 things stop rewriting/lodash : http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
 
 ### inheritance
 - simple challenge to fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
@@ -50,7 +53,7 @@ substring
 var s = 'string'
 
 s.substring(2)
--> 'ring' 
+-> 'ring'
 
 s.substring(2,2)
 -> 'ri'
@@ -61,11 +64,11 @@ s.substring(2,2)
 ```
 
 -> "
-### regex 
+### regex
 
 split string on first whitespace:
 ```
-var str = "part1 part2" 
+var str = "part1 part2"
 
 str.match(/^(\S+)\s(.*)/).slice(1)
 
