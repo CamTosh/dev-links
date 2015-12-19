@@ -37,6 +37,9 @@
 ### libs
 - standard library : https://github.com/zloirock/core-js
 
+### modules
+- wes bos : http://wesbos.com/javascript-modules/
+
 ### repl
 - es6 repl : http://jsoverson.github.io/es6repl
 - babel-repl : https://github.com/paulserraino/babel-repl

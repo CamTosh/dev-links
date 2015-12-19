@@ -39,6 +39,9 @@
 - radium : http://projects.formidablelabs.com/radium/   
 - css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/
 
+### data fetching
+- react-refetch : https://github.com/heroku/react-refetch
+
 ### data visualization
 - victory : http://projects.formidablelabs.com/victory/docs/victory-axis/
 - talk : http://communitycasts.co/screencast/2ii1lEkIv1s

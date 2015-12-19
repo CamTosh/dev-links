@@ -6,6 +6,9 @@
 ### bootstrap
 - responsive tut : http://www.revillweb.com/tutorials/bootstrap-tutorial/
 
+### draft
+- w3c : https://drafts.csswg.org/
+
 ### ids
 - in defense : http://www.zeldman.com/2012/11/21/in-defense-of-descendant-selectors-and-id-elements/
 
@@ -25,7 +28,7 @@
 - workflow : jonyablonski.com/2015/responsive-image-workflow/
 - using now 2015 : alistapart.com/article/using-responsive-images-now
 
-### stylguides
+### styleguides
 - kss-node : http://kss-node.github.io/kss-node/
 - huge stylguide (automated lib) : http://hugeinc.github.io/styleguide/index.html
 - sketch style inventory : https://github.com/getflourish/Sketch-Style-Inventory

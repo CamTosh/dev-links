@@ -25,6 +25,9 @@
 - js engines for idiots : developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/           
 - 10 interview questions : https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
+### jobs
+- eric elliot : https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467#.tticolvxl
+
 ### groups
 - jskicks : https://javascriptkicks.com/
 
