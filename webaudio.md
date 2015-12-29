@@ -4,6 +4,9 @@
 - km : http://www.keithmcmillen.com/blog/simple-synthesis-part-9-amplitude-modulation/
 - km : http://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-and-midi-api-amplitude-modulation/
 
+### chaining
+- chaining : https://googlechrome.github.io/samples/webaudio-method-chaining/
+
 ### devtools
 - chrome devtools extension : https://github.com/spite/WebAudioExtension              
 
@@ -22,7 +25,11 @@
 - bap : http://bapjs.org/
 - beet.js : https://github.com/zya/beet.js                                                       
 
+### playgrounds
+- chris wilson : https://github.com/cwilso/WebAudio
+
 ### tuts
+- fun immersive webaudio : http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/
 - using expressions in dilla : http://adamrenklint.com/using-expressions-in-dilla/
 - lazy kicks eager snares : http://adamrenklint.com/lazy-kicks-eager-snares/
 - Making a boombap beat with Dilla and the Web Audio API : http://adamrenklint.com/making-boombap-beat-with-dilla/

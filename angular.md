@@ -1,5 +1,8 @@
 ## angular 1               
 
+### 1.5
+- new features : https://medium.com/google-developer-experts/angular-new-features-in-angularjs-1-5-24f9b503af15#.7ihneu3x8
+
 ### angular-ui
 - mobile issue tooltips : https://github.com/angular-ui/bootstrap/issues/2123
 
@@ -10,6 +13,9 @@
 - componentized angular development : http://labs.bench.co/2015/1/21/componentized-angular
 - paypal : https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef
 - john papa styleguide : https://github.com/johnpapa/angular-styleguide
+
+### componentized
+- Componentized ES6 app development highlights for Angular 1 and Redux » : https://adrianperez.org/a-componentized-es6-directory-structure-for-angular-1-and-redux-projects/
 
 ### controller as
 - digging into : http://toddmotto.com/digging-into-angulars-controller-as-syntax/
@@ -64,6 +70,9 @@
 
 ### promises
 - promises and $q to handle async : http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/
+
+### routing
+- Introduction to ngNewRouter vs ui-router : https://medium.com/angularjs-meetup-south-london/angular-just-another-introduction-to-ngnewrouter-vs-ui-router-72bfcb228017#.6fjcfv32x
 
 ### testing
 - promises : http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html

@@ -6,6 +6,13 @@
 ### bootstrap
 - responsive tut : http://www.revillweb.com/tutorials/bootstrap-tutorial/
 
+### centering / alignment
+- vertical align anything with 3 lines of code : http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/
+- vertical align : http://codepen.io/chriscoyier/pen/oJeAK?editors=110
+- via line-height : http://jsfiddle.net/FYX74/
+- progress bar value : http://jsfiddle.net/bozdoz/fSLdG/2/
+- vertically aligning multiple blocks inline block : http://codepen.io/edge0703/pen/iHJuA?editors=110
+
 ### draft
 - w3c : https://drafts.csswg.org/
 
@@ -20,6 +27,9 @@
 
 ### grid
 - grid and the box : https://www.rachelandrew.co.uk/archives/2015/09/02/css-grid-and-the-box-alignment-module
+
+### libs
+- css-layout (js implementation of flexbox) : https://github.com/facebook/css-layout
 
 ### rem
 - using rem : www.sitepoint.com/understanding-and-using-rem-units-in-css/

@@ -127,6 +127,7 @@
 - styling components in sass : http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
 ### seeds
+- react boilerplate : https://github.com/mxstbr/react-boilerplate
 - react starter aggregator : http://andrewhfarmer.com/starter-project/
 
 ### stack libs

@@ -4,7 +4,7 @@
 - atlassian : https://www.atlassian.com/git/tutorials/advanced-overview
 - scm : https://git-scm.com/doc
 
-### commands 
+### commands
 ```
 $ git checkout --ours <path-to-file>
 ( checkout local version during merge )
@@ -45,8 +45,12 @@ $ git config --global url."https://".insteadOf git://
 $ git config --global credential.helper osxkeychain
 ( clear cached passwords )
 ```
+```
+$ git config core.safecrlf true
+( turn safecrlf on/off )
+```
 
 
-ALTER TABLE `pharma`.`physicians` 
+ALTER TABLE `pharma`.`physicians`
 ADD COLUMN `PRE_MARKET_TRX` INT(11) NULL COMMENT '' AFTER `Account Size Segmentation`,
 ADD COLUMN `POST_MARKET_TRX` INT(11) NULL COMMENT '' AFTER `PRE_MARKET_TRX`;

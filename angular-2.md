@@ -10,6 +10,7 @@
 - using : https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/
 
 ### info
+- for react devs : https://angularclass.com/angular-2-for-react-developers/
 - is it ready yet : http://splintercode.github.io/is-angular-2-ready/
 
 ### pipes
