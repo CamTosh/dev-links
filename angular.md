@@ -34,6 +34,13 @@
 - tim roes : https://www.timroes.de/2015/07/29/using-ecmascript-6-es6-with-angularjs-1-x/
 -   + repo : https://github.com/timroes/angular-es6-sample
 
+### forms
+- scotch angular forms with ng-messages : https://scotch.io/tutorials/angularjs-form-validation-with-ngmessages
+- scotch angular form validation : https://scotch.io/tutorials/angularjs-form-validation
+- formly : http://angular-formly.com/#/
+- scotch formly tut : https://scotch.io/tutorials/easy-angularjs-forms-with-angular-formly
+- scotch submitting angular forms : https://scotch.io/tutorials/submitting-ajax-forms-the-angularjs-way
+
 ### generator-gulp-angular
 - how css/js is bundled : https://github.com/Swiip/generator-gulp-angular/issues/413
 - swiip generator-gulp-angular : https://github.com/Swiip/generator-gulp-angular                                    
@@ -68,6 +75,11 @@
 - angular-filter : https://github.com/a8m/angular-filter
 - angular-fng (faster directives) : http://www.adamcraven.me/increasing-performance-on-large-angular-apps/
 
+### modules
+- organizing modules : http://odetocode.com/blogs/scott/archive/2013/05/07/angularjs-abstractions-organizing-modules.aspx
+- why one file one module : https://github.com/gocardless/angularjs-style-guide/issues/14
+- scotch best practices modules : https://scotch.io/tutorials/angularjs-best-practices-directory-structure
+
 ### promises
 - promises and $q to handle async : http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/
 
@@ -87,10 +99,15 @@
 - multiple lists : http://codepen.io/mrev/pen/pjMyxJ?editors=101
 - duplicates bug : https://github.com/angular-ui/ui-sortable/issues/146
 
+### ui-router
+- api : http://angular-ui.github.io/ui-router/site/#/api/
+- write modular code ui-router : http://www.sitepoint.com/write-modular-code-angular-ui-router-named-views/
+- web code geeks (good series) : http://www.webcodegeeks.com/javascript/angular-js/angularjs-ui-router-introduction/
+
 ### webpack
+- using angular 1.x w wp : http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/ : repo : https://github.com/angular-tips/webpack-demo : demo : https://github.com/Foxandxss/GermanWords-ng1-webpack
 - shmck seed series : https://github.com/ShMcK/WebpackAngularDemos : post : http://www.shmck.com/webpack-angular-part-3/
 - angular-webpack-seed : https://github.com/zxbodya/angular-webpack-seed
-- using angular 1.x w wp : http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/ : repo : https://github.com/angular-tips/webpack-demo : demo : https://github.com/Foxandxss/GermanWords-ng1-webpack
 - ang/wp vs browserify : http://www.mixedcase.nl/articles/2015/06/14/research-front-end-part-3/
 - ang gulp wp starter : http://www.mixedcase.nl/articles/2015/06/14/research-front-end-part-3/
 - ang 1.4, es6, mat design : http://julienrenaux.fr/2015/05/05/creating-an-application-with-angularjs-1-4-ecmascript-6-material-design-and-webpack/

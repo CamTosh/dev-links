@@ -3,6 +3,9 @@
 ### bootstrap
 - bootply tagged flexbox : http://www.bootply.com/tagged/flexbox
 
+### cheatsheet
+- http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+
 ### code samples
 - simple row : http://codepen.io/HugoGiraudel/pen/LklCv?editors=110
 - text aligned top/bottom of item : http://jsfiddle.net/ek38ff5r/4/ : http://stackoverflow.com/questions/30357462/flexbox-vertical-align-some-elements-at-top-some-elements-at-the-bottom
@@ -29,6 +32,9 @@
 - modern web layout : http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox
 
 ### tuts
+- flexbox frogger : http://flexboxfroggy.com/
+- flexbox in 5 : https://cvan.io/flexboxin5/
+- what the flexbox : http://flexbox.io/#/
 - solved by flexbox : http://philipwalton.github.io/solved-by-flexbox/
 - visual guide to flexbox : https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
 - fluid width equal height columns : https://css-tricks.com/fluid-width-equal-height-columns/

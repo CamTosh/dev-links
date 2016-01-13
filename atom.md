@@ -48,6 +48,7 @@
 - shift-k-b : open sidebar
 - ctrl-g : go to line
 - command-/ : toggle comment
+- command-\ : toggle tree view
 - ctrl-(backtick) : toggle terminal plus
 - ctrl-m : goto matching bracket
 - ctrl-shift-m : show markdown preview (takes a second to load)

@@ -1,5 +1,12 @@
 ## clojure
 
+### algorithms
+persistent vectors : http://hypirion.com/musings/understanding-persistent-vector-pt-1
+optimizing hash-array mapped tries : http://blog.acolyer.org/2015/11/27/hamt/
+
+### case studies
+- walmart : https://www.youtube.com/watch?v=av9Xi6CNqq4
+
 ### cheatsheet
 - http://clojure.org/cheatsheet
 
@@ -15,7 +22,11 @@
 ### frameworks
 - luminous : http://www.luminusweb.net/ : https://github.com/luminus-framework/luminus
 
+### posts
+- which langs are functional : http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html
+
 ### resources
+- 2015 year in review : http://stuartsierra.com/2015/12/31/clojure-2015-year-in-review
 - reddit : https://www.reddit.com/r/Clojure/
 
 ### resources

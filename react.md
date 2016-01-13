@@ -85,6 +85,9 @@
 ### flow
 - docs : http://flowtype.org/  
 
+### hot reloading
+- dan post : http://gaearon.github.io/react-hot-loader/2014/07/23/integrating-jsx-live-reload-into-your-react-workflow/ : hn : https://news.ycombinator.com/item?id=8982620
+
 ### libs
 - petehunt/jxstyle : https://github.com/petehunt/jsxstyle
 - velocity-react : https://fabric.io/blog/introducing-the-velocityreact-library
@@ -137,6 +140,7 @@
 - khan academy : https://github.com/Khan/style-guides/blob/master/style/react.md
 
 ### testing
+- how to unit test react using expect.js : https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
 - the tools : http://css-max.com/tools-for-testing-react/                        
 - tool implementation : http://css-max.com/testing-react-tool-implementation/    
 
