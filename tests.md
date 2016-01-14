@@ -1,5 +1,8 @@
 ## tests
 
+### ava
+- home : https://github.com/sindresorhus/ava
+
 ### karma
 - s.o. basic list of actions : http://stackoverflow.com/questions/26032124/karma-vs-testing-framework-jasmine-mocha-qunit
 

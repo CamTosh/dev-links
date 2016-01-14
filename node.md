@@ -4,6 +4,7 @@
 - natp : https://github.com/guyht/notp
 
 ### best practices
+- how to become better 2016 : https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/
 - 10 habits happy devs 2016 : http://blog.heroku.com/archives/2015/11/10/node-habits-2016?utm_source=nodeweekly&utm_medium=email
 
 ### books
@@ -47,7 +48,7 @@
 ### tuts
 - cli : http://konkle.us/commanding-the-cli-with-node/                         
 - basic http req : http://davidwalsh.name/nodejs-http-request                  
-- socket.io tut : http://danielnill.com/nodejs-tutorial-with-socketio/ 
+- socket.io tut : http://danielnill.com/nodejs-tutorial-with-socketio/
 
 ### streams
 - docs : https://nodejs.org/api/stream.html
@@ -56,5 +57,3 @@
 
 ### tips
 - 7 node mantras : https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
-
-

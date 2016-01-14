@@ -1,13 +1,16 @@
 ## Utilities (catch all)  
 
-### ads 
+### ads
 - why ad blockers changing the game : https://snipcart.com/blog/ad-blockers-saas-web-developers : hn : https://news.ycombinator.com/item?id=10473130
 
-### apis 
+### apis
 - programmable web : http://www.programmableweb.com/
 - postman : https://www.getpostman.com/
 - insomnia : http://insomnia.rest/
 - dhc : chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/dhc.html
+
+### apps
+- 12 factor : http://12factor.net/
 
 ### chrome extensions
 - dhc : chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/dhc.html

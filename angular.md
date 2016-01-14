@@ -28,6 +28,9 @@
 - kk : https://gist.github.com/kkurni/4618210
 - with resource : http://stackoverflow.com/questions/16554270/how-to-configure-angular-resource-ngresource-to-pull-data-from-another-domain
 
+### dependency injection
+- vs require : http://www.sitepoint.com/dependency-injection-angular-vs-requirejs/
+
 ### es6
 - using with angular today : http://blog.thoughtram.io/angularjs/es6/2015/01/23/exploring-angular-1.3-using-es6.html
 - ng6 starter : https://github.com/angular-class/NG6-starter

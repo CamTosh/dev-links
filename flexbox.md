@@ -27,11 +27,8 @@
 ### react
 - simple react with flexbox : http://codepen.io/luisrudge/pen/WQOjGB?editors=011
 
-### spec
-- which flexbox react reddit : https://www.reddit.com/r/reactjs/comments/3nvocr/which_flexbox_grid_do_you_use_with_react/
-- modern web layout : http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox
-
-### tuts
+### resources
+- css tricks guide : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - flexbox frogger : http://flexboxfroggy.com/
 - flexbox in 5 : https://cvan.io/flexboxin5/
 - what the flexbox : http://flexbox.io/#/
@@ -39,3 +36,7 @@
 - visual guide to flexbox : https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
 - fluid width equal height columns : https://css-tricks.com/fluid-width-equal-height-columns/
 - designers guide to flexbox : http://thenewcode.com/780/A-Designers-Guide-To-Flexbox
+
+### spec
+- which flexbox react reddit : https://www.reddit.com/r/reactjs/comments/3nvocr/which_flexbox_grid_do_you_use_with_react/
+- modern web layout : http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox

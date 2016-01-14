@@ -10,6 +10,9 @@
 ### devtools
 - chrome devtools extension : https://github.com/spite/WebAudioExtension              
 
+### waveform editors
+- zampling : https://github.com/gre/zampling/blob/master/src/utils/AudioChunker.js
+
 ### environments
 - wavepot : http://wavepot.com/
 
@@ -56,6 +59,9 @@
 
 ### tracks w/ code
 - dilla boombap demo : https://github.com/adamrenklint/dilla-boombap-demo
+
+### webgl
+- wavegl : https://github.com/gre/wavegl
 
 ### works
 - dj app : https://blog.2decks.com/2015/11/20/worlds-1st-html5-dj-app/

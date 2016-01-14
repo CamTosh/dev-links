@@ -10,11 +10,11 @@
 - mpjme over inheritance vid : https://www.youtube.com/watch?v=wfMtDGfHWpA
 - mpjme factory functions js : https://www.youtube.com/watch?v=ImwrezYhw4w&annotation_id=eab57fc0-790e-4e8e-89fd-5ab7fd16344e&src_vid=wfMtDGfHWpA&feature=cards
 
-### libs
-- eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
-
 ### functional
 - 10 things stop rewriting/lodash : http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
+
+### groups
+- jskicks : https://javascriptkicks.com/
 
 ### inheritance
 - simple challenge to fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
@@ -28,8 +28,8 @@
 ### jobs
 - eric elliot : https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467#.tticolvxl
 
-### groups
-- jskicks : https://javascriptkicks.com/
+### libs
+- eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
 
 ### promises
 - promisees : http://bevacqua.github.io/promisees/                                                           
@@ -47,6 +47,8 @@
 
 ### versioning
 - 2ality : http://www.2ality.com/2015/11/tc39-process.html
+
+
 
 ### native functions
 #### strings

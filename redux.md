@@ -31,9 +31,6 @@
 - react-validation-mixin : https://github.com/jurassix/react-validation-mixin
 - form-generator : https://gist.github.com/penguinsoccer/903cdd4cfe840c842ddc
 
-### helpers
-- react-stateless : https://github.com/troch/react-stateless
-
 ### informational
 - why local component state is a trap : https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/
 - cartoon guide to flux : https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.naqe4mqhj
@@ -43,6 +40,10 @@
 
 ### libs
 - redux-await : https://github.com/kolodny/redux-await
+
+### middleware 
+- redux-saga : https://github.com/yelouafi/redux-saga
+- react-stateless : https://github.com/troch/react-stateless
 
 ### reddit
 - When using redux, when should react components use this.setState (or should they not)? : https://www.reddit.com/r/reactjs/comments/3mpc0e/when_using_redux_when_should_react_components_use/

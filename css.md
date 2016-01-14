@@ -1,7 +1,12 @@
 ## css
 
 ### best practices
+- google recommends inlining small css : https://news.ycombinator.com/item?id=10886259
+- optimize delivery : https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
 - css wizardry code smells : http://csswizardry.com/2012/11/code-smells-in-css/
+
+### blending
+- blending modes demystified : http://alistapart.com/article/blending-modes-demystified
 
 ### bootstrap
 - responsive tut : http://www.revillweb.com/tutorials/bootstrap-tutorial/

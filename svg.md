@@ -7,6 +7,9 @@
 ### flexbox
 - svg layout with flexbox simpler charts : http://blog.scottlogic.com/2015/02/02/svg-layout-flexbox.html
 
+### optimization
+- for web use : https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035#.zaftzu2wl
+
 ### react
 - svg react : http://jxnblk.com/react-icons/
 
