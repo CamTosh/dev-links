@@ -41,7 +41,7 @@
 ### libs
 - redux-await : https://github.com/kolodny/redux-await
 
-### middleware 
+### middleware
 - redux-saga : https://github.com/yelouafi/redux-saga
 - react-stateless : https://github.com/troch/react-stateless
 
@@ -87,6 +87,9 @@
 - adrenaline : redux/relay bindings : https://github.com/gyzerok/adrenaline                                      
 - react-relay-redux : https://github.com/cdebotton/react-relay-redux                                             
 - thread : https://github.com/rackt/redux/issues/464                                                             
+
+### sagas
+- from action creators to sagas : http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
 
 ### typed
 - react and redux with typescript : http://jaysoo.ca/2015/09/26/typed-react-and-redux/ : https://www.reddit.com/r/reactjs/comments/3mhqb8/typed_react_and_redux/

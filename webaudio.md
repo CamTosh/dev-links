@@ -4,6 +4,9 @@
 - km : http://www.keithmcmillen.com/blog/simple-synthesis-part-9-amplitude-modulation/
 - km : http://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-and-midi-api-amplitude-modulation/
 
+### babylon
+- fun and immersive web experiences (ties with webgl meshes) : http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/
+
 ### chaining
 - chaining : https://googlechrome.github.io/samples/webaudio-method-chaining/
 
@@ -62,6 +65,7 @@
 
 ### webgl
 - wavegl : https://github.com/gre/wavegl
+- vis : http://srchea.com/experimenting-with-web-audio-api-three-js-webgl
 
 ### works
 - dj app : https://blog.2decks.com/2015/11/20/worlds-1st-html5-dj-app/
@@ -69,3 +73,6 @@
 - typedrummer : http://typedrummer.com/                                                                         
 - spins visualizer : https://github.com/mattdesl/spins                                                          
 - guitar tuner : https://aerotwist.com/blog/guitar-tuner/                                                       
+
+### visualizers
+js visualizer : http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/

@@ -1,6 +1,11 @@
 ## clojurescript
 
+### atom
+- parinfer :
+
 ### books
+- unraveled : http://funcool.github.io/clojurescript-unraveled/
+- from the ground up : https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome
 - ds and algorithms : https://www.packtpub.com/application-development/clojure-data-structures-and-algorithms-cookbook
 
 ### browser-repl
@@ -19,6 +24,7 @@
 - repo : https://github.com/bhauman/devcards
 - intro post : http://rigsomelight.com/2014/06/03/devcards-taking-interactivity-to-the-next-level.html
 - video presentation : https://www.youtube.com/watch?v=G7Z_g2fnEDg
+- strange loop code : https://github.com/bhauman/strange-loop-2015
 
 ### hoplon
 - css layout discussion : http://hoplon.discoursehosting.net/t/lets-talk-about-layout/223
@@ -42,6 +48,9 @@
 
 ### howto
 - set up a node repl with boot : https://www.reddit.com/r/Clojurescript/comments/3wyk8z/difficulties_with_setting_up_a_node_repl/
+
+### jupyter
+- hydrogen : https://atom.io/packages/hydrogen : hn : https://news.ycombinator.com/item?id=9577336 : https://jupyter.org/
 
 ### javascript integration
 - docs : https://github.com/clojure/clojurescript/wiki/Dependencies
@@ -116,6 +125,9 @@
 ### troubleshooting
 - henrys post : http://henryzhu.me/2015/08/14/reagent-dynamic-lists
 
+### tutorials
+- step 1 : http://timothypratley.blogspot.com/2015/11/curious-about-clojurescript-but-not.html
+
 ### ui libs
 - om-bootstrap : http://om-bootstrap.herokuapp.com/
 - re-com : https://github.com/Day8/re-com : http://re-demo.s3-website-ap-southeast-2.amazonaws.com/
@@ -135,6 +147,14 @@
 - web-audio-project : https://github.com/prasincs/web-audio-project
 - https://gist.github.com/qleonetti/03a9e15dedf0fd783451
 - machine that goes ping : http://tmtgp.ntio.co/
+- playground : http://blog.mattgauger.com/hum/
+- cljs-webaudio : https://github.com/Hendekagon/cljs-web-audio
+- hum : https://github.com/mathias/hum : http://blog.mattgauger.com/hum/
+- http://jvns.ca/blog/2013/11/25/day-33-how-to-make-music-with-clojurescript/
+- elemental : https://github.com/benji6/elemental-cljs
+- browser connected repl : https://vimeo.com/29535884
+- interop calls to webaudio via js sample app : https://github.com/prasincs/web-audio-project
+  : viz : https://metarefresh.talkfunnel.com/2014/1010-building-an-audio-vizualizer-using-core-async-cloj
 
 ## websockets
 - sente : https://github.com/ptaoussanis/sente

@@ -1,5 +1,12 @@
 ## react
 
+### 0.14
+- upgrading to react 0.14 : http://reactkungfu.com/2015/10/upgrading-to-react-014/
+- stateless : https://egghead.io/lessons/react-building-stateless-function-components-new-in-react-0-14
+             : https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.ol9ifttr3
+             : https://gilang.chandrasa.com/playing-with-react-0-14-in-codepen/
+             : http://jxnblk.com/react-icons/
+
 ### animations
 - velocity react lib : https://fabric.io/blog/introducing-the-velocityreact-library
 
@@ -14,6 +21,9 @@
 ### builders
 - helmet : http://helmetrex.com/                                  
 - react-ui-builder : https://github.com/ipselon/react-ui-builder  
+
+### canvas
+- 25 examples : https://react.rocks/tag/Canvas
 
 ### cheat sheet
 - reactcheatsheet : http://reactcheatsheet.com/
@@ -114,6 +124,13 @@
 ### radium
 - making layouts (reddit) : https://www.reddit.com/r/reactjs/comments/3n7qxf/question_on_making_layouts_with_radium_inline/
 
+### react-canvas
+- repo : https://github.com/Flipboard/react-canvas
+
+### react-motion
+- repo : https://github.com/chenglou/react-motion
+- gentle intro : https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.3gzw439yb
+
 ### reddit threads
 - Manage user input from a parent in a child component : https://www.reddit.com/r/reactjs/comments/3n2ew9/manage_user_input_from_a_parent_in_a_child/
 
@@ -173,7 +190,12 @@
 - spring : http://react.rocks/example/GL-react_Spring
 
 ### webpack
+- react-webpack cookbook : https://christianalfoni.github.io/react-webpack-cookbook/index.html
 - hjs-webpack : http://benclinkinbeard.com/posts/up-and-running-with-es6-and-react-in-under-5-minutes/                  
+
+### webaudio
+- https://github.com/jergason/react-webaudio-drum-machine
+- https://github.com/lukefreeman/ReactJS-DrumMachine
 
 ### web components
 - discussion : https://github.com/facebook/react/issues/5052

@@ -11,6 +11,7 @@
 - mpjme factory functions js : https://www.youtube.com/watch?v=ImwrezYhw4w&annotation_id=eab57fc0-790e-4e8e-89fd-5ab7fd16344e&src_vid=wfMtDGfHWpA&feature=cards
 
 ### functional
+- rigsomelight :  http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
 - 10 things stop rewriting/lodash : http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
 
 ### groups
@@ -19,6 +20,10 @@
 ### inheritance
 - simple challenge to fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
 - common misconceptions : https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+
+### jquery
+- workarounds : https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit?pref=2&pli=1
+- you don't need : http://blog.garstasio.com/you-dont-need-jquery/
 
 ### info
 - creating an open source lib : https://egghead.io/series/how-to-write-an-open-source-javascript-library  

@@ -28,6 +28,7 @@
 - simple react with flexbox : http://codepen.io/luisrudge/pen/WQOjGB?editors=011
 
 ### resources
+- building with flexbox (creates a grid) : http://callmenick.com/post/flexbox-examples
 - css tricks guide : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - flexbox frogger : http://flexboxfroggy.com/
 - flexbox in 5 : https://cvan.io/flexboxin5/

@@ -4,6 +4,9 @@
 - atlassian : https://www.atlassian.com/git/tutorials/advanced-overview
 - scm : https://git-scm.com/doc
 
+### github
+- linus thread : https://github.com/torvalds/linux/pull/17#issuecomment-5654674
+
 ### commands
 ```
 $ git checkout --ours <path-to-file>
