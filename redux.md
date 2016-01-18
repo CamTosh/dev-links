@@ -11,6 +11,7 @@
 - redux-utils async : https://github.com/penguinsoccer/redux-utils-example
 
 ### best practices
+- big projects : https://www.reddit.com/r/reactjs/comments/40weou/big_projects_witch_reactredux/
 - best practices : https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e
 - storing state : https://www.reddit.com/r/reactjs/comments/3nz2u4/help_storing_ui_state_in_redux/
 
@@ -90,6 +91,9 @@
 
 ### sagas
 - from action creators to sagas : http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
+
+### testing
+- test driven tut : http://spencerdixon.com/blog/test-driven-react-tutorial.html
 
 ### typed
 - react and redux with typescript : http://jaysoo.ca/2015/09/26/typed-react-and-redux/ : https://www.reddit.com/r/reactjs/comments/3mhqb8/typed_react_and_redux/

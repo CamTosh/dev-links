@@ -1,6 +1,9 @@
 ## npm
 
-### dependencies 
+### aggregators
+- awesome npm : https://github.com/sindresorhus/awesome-npm
+
+### dependencies
 - s.o. : http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies
 
 ### es6
@@ -18,9 +21,12 @@
 - creating : https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
 - commonjs spec : http://www.commonjs.org/specs/modules/1.0/
 
-### package.json 
+### package.json
 - docs : https://docs.npmjs.com/files/package.json
 - interactive guide : http://browsenpm.org/package.json
+
+### publishing
+- a simple guide : http://evanhahn.com/make-an-npm-baby/
 
 ### scripts
 - run scripts : http://firstdoit.com/npm-scripts/                                              
@@ -35,7 +41,7 @@
 ## commands
 
 ```
-$ npm list -g --depth=0 
+$ npm list -g --depth=0
 ( list globally installed modules )
 ```
 ```

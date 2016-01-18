@@ -11,6 +11,7 @@
 - velocity react lib : https://fabric.io/blog/introducing-the-velocityreact-library
 
 ### best practices
+- smart and dumb components : https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.1hgqnzfun
 - how to structure a project : http://reactjsnews.com/structuring-react-projects/
 - common mistakes unneeded state : http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/
 - es6 classes or createClass? : https://www.reddit.com/r/reactjs/comments/3udbyj/es6_classes_or_createclass/
@@ -39,12 +40,14 @@
 - react-slide-menu : https://github.com/sap9433/react-slide-menu
 
 ### components - collections
+- rollup : http://tech.adroll.com/blog/frontend/2015/11/05/rollup-shared-ui-components.html : http://tech.adroll.com/blog/frontend/2015/11/12/rollup-react-and-npm-at-adroll.html
 - khan : http://khan.github.io/react-components/
 
 ### composition
 - Mixins Are Dead. Long Live Composition : https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
 
 ### css
+- transitions (12/15) : https://www.reddit.com/r/reactjs/comments/413929/whats_the_established_pattern_for_css/
 - css modules webpack demo : https://css-modules.github.io/webpack-demo/
 - radium : http://projects.formidablelabs.com/radium/   
 - css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/
@@ -53,6 +56,7 @@
 - react-refetch : https://github.com/heroku/react-refetch
 
 ### data visualization
+-
 - victory : http://projects.formidablelabs.com/victory/docs/victory-axis/
 - talk : http://communitycasts.co/screencast/2ii1lEkIv1s
 
@@ -61,7 +65,8 @@
 - is the future of charting? : http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/
 - react-d3 : https://github.com/esbullington/react-d3
 - react-d3-components : https://github.com/codesuki/react-d3-components
-- 3 steps to scalable data viz : https://www.codementor.io/reactjs/tutorial/3-steps-scalable-data-visualization-react-js-d3-js
+- 3 steps to scalable data viz pt 1 : https://www.codementor.io/reactjs/tutorial/3-steps-scalable-data-visualization-react-js-d3-js
+- 3 steps to scalable data viz pt 2 : https://www.codementor.io/reactjs/tutorial/visualizing-data-react-js-cross-filtering-hover-interaction-histogram
 - reusable chart components : http://busypeoples.github.io/post/d3-with-react-js/
 
 ### data fetching
@@ -94,6 +99,10 @@
 
 ### flow
 - docs : http://flowtype.org/  
+
+### getting started
+- pete hunt howto (12/15) : https://github.com/petehunt/react-howto
+- top 5 tuts (12/15) : http://andrewhfarmer.com/getting-started-tutorials/
 
 ### hot reloading
 - dan post : http://gaearon.github.io/react-hot-loader/2014/07/23/integrating-jsx-live-reload-into-your-react-workflow/ : hn : https://news.ycombinator.com/item?id=8982620
@@ -153,8 +162,17 @@
 ### stack libs
 - superagent (ajax) : https://visionmedia.github.io/superagent/
 
+### stateless functions
+- stateless : https://egghead.io/lessons/react-building-stateless-function-components-new-in-react-0-14
+             : https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.ol9ifttr3
+             : https://gilang.chandrasa.com/playing-with-react-0-14-in-codepen/
+             : http://jxnblk.com/react-icons/
+
 ### style guides
 - khan academy : https://github.com/Khan/style-guides/blob/master/style/react.md
+
+### svg
+- building svg icons with react : http://jxnblk.com/react-icons/ : https://github.com/jxnblk/react-icons
 
 ### testing
 - how to unit test react using expect.js : https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/

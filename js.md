@@ -11,6 +11,7 @@
 - mpjme factory functions js : https://www.youtube.com/watch?v=ImwrezYhw4w&annotation_id=eab57fc0-790e-4e8e-89fd-5ab7fd16344e&src_vid=wfMtDGfHWpA&feature=cards
 
 ### functional
+- function defs in js : https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 - rigsomelight :  http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
 - 10 things stop rewriting/lodash : http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
 
@@ -24,6 +25,7 @@
 ### jquery
 - workarounds : https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit?pref=2&pli=1
 - you don't need : http://blog.garstasio.com/you-dont-need-jquery/
+- 10 tips without jquery : http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/
 
 ### info
 - creating an open source lib : https://egghead.io/series/how-to-write-an-open-source-javascript-library  
@@ -36,7 +38,21 @@
 ### libs
 - eshint : www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
 
-### promises
+### lodash
+- v4 : https://github.com/lodash/lodash/releases/tag/4.0.0
+
+### math
+- tau : http://egraether.com/Tau.js/
+
+### mobile
+- pocket sized js : http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript
+- pokedex (workers, feather app) : http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
+
+### modules
+- the struggles of publishing a js lib : http://nolanlawson.com/2015/10/19/the-struggles-of-publishing-a-javascript-library/
+
+### promises / generators
+- async i/o with generators/promises : https://ponyfoo.com/articles/asynchronous-i-o-with-generators-and-promises
 - promisees : http://bevacqua.github.io/promisees/                                                           
 - awesome promises : https://github.com/wbinnssmith/awesome-promises                                         
 
@@ -49,6 +65,9 @@
 ### style guides
 - khan : https://github.com/Khan/style-guides/blob/master/style/javascript.md#dont-use-underscore
 - air bnb : https://github.com/airbnb/javascript
+
+### web workers
+- parallel js with parallels : http://www.sitepoint.com/parallel-javascript-with-paralleljs
 
 ### versioning
 - 2ality : http://www.2ality.com/2015/11/tc39-process.html

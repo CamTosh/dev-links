@@ -15,6 +15,7 @@
 - john papa styleguide : https://github.com/johnpapa/angular-styleguide
 
 ### componentized
+- componentized es6 ang 1 redux : https://adrianperez.org/a-componentized-es6-directory-structure-for-angular-1-and-redux-projects/
 - Componentized ES6 app development highlights for Angular 1 and Redux » : https://adrianperez.org/a-componentized-es6-directory-structure-for-angular-1-and-redux-projects/
 
 ### controller as

@@ -38,13 +38,16 @@
 - standard library : https://github.com/zloirock/core-js
 
 ### modules
+- axel book chapter : http://exploringjs.com/es6/ch_modules.html
 - wes bos : http://wesbos.com/javascript-modules/
+- d3 discussion (monster threads, touch on rollup) : https://github.com/mbostock/d3/issues/2461 : https://github.com/mbostock/d3/issues/2220
 
 ### repl
 - es6 repl : http://jsoverson.github.io/es6repl
 - babel-repl : https://github.com/paulserraino/babel-repl
 
 ### resources
+- eric elliot list : https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.l906hxwgh
 - es6 learning : https://github.com/ericdouglas/ES6-Learning
 - formidable interactive guide : http://projects.formidablelabs.com/es6-interactive-guide/#/
 - es6 in depth : https://hacks.mozilla.org/category/es6-in-depth/

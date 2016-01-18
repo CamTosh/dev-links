@@ -1,6 +1,7 @@
 ## ai
 
 ### deep learning
+- brief history of neural nets : http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 - like kids : http://www.technologyreview.com/featuredstory/544606/can-this-man-make-ai-more-human/
 - george hotz car : http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/ : https://news.ycombinator.com/item?id=10744206
 

@@ -1,5 +1,10 @@
 ## angular 2
 
+### 1 compatibility
+- ngupgrade : http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
+- highlights : http://angularjs.blogspot.jp/2015/11/highlights-from-angularconnect-2015.html
+- angular 2 beta : http://angularjs.blogspot.jp/2015/12/angular-2-beta.html
+
 ### dependencies
 - domain models and dep inject : https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/
 

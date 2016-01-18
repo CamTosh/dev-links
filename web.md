@@ -37,6 +37,9 @@
 ### utilities
 - DHC hrome extension : https://chrome.google.com/webstore/detail/dhc-resthttp-api-client/aejoelaoggembcahagimdiliamlcdmfm?hl=en : chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/dhc.html
 
+### webassembly
+- maya's : https://mayaposch.wordpress.com/2015/12/30/a-look-at-asm-js-and-the-future-with-webassembly/
+
 ### websockets
 - docs : http://socket.io/
 
