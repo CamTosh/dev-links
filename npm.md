@@ -36,7 +36,9 @@
 - a simple guide : http://evanhahn.com/make-an-npm-baby/
 
 ### scripts
-- why i left gulp and grunt : https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z4ltvlumi
+- substack (2013) : http://substack.net/task_automation_with_npm_run
+- why i left gulp and grunt : https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z4ltvlumi : https://news.ycombinator.com/item?id=10929476
+- npm script docs : https://docs.npmjs.com/misc/scripts#description
 - run scripts : http://firstdoit.com/npm-scripts/                                              
 - npm as build tool : http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/            
 - do we need gulp : http://gon.to/2015/02/26/gulp-is-awesome-but-do-we-really-need-it/         

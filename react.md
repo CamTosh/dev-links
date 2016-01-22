@@ -102,8 +102,15 @@
 ### forms
 - help undestanding (thread) : https://www.reddit.com/r/reactjs/comments/41s1n5/help_understanding_formsinputs_in_react/
 
+### fullstack
+- Este : https://github.com/este/este
+- fullstack example list : https://react.rocks/tag/FullStack
+
 ### functional
 - understanding the functional revolution : http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/                     
+### frp
+- Elegant Functional Architecture for React : https://medium.com/@gilbox/an-elegant-functional-architecture-for-react-faa3fb42b75b#.1vcujd4wk
+- Classical and Functional React Get Married and Bind the Knot in a Decorated Wedding : https://medium.com/@gilbox/classical-and-functional-react-get-married-and-have-a-baby-7acf5d0cf00e#.mmtipjn8l
 
 ### flow
 - docs : http://flowtype.org/  

@@ -1,5 +1,8 @@
 ## js
 
+### algorithms
+- NBEAM: How I Wrote an Ultra-Fast DNA Sequence Alignment Algorithm in JavaScript : https://medium.com/@keithwhor/nbeam-how-i-wrote-an-ultra-fast-dna-sequence-alignment-algorithm-in-javascript-c199e936da#.rbd5tsq1o
+
 ### async
 - history : blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
 

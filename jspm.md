@@ -10,6 +10,7 @@
 - gulp-jspm : https://www.npmjs.com/package/gulp-jspm
 
 ### hot reload
+- system-js-reloader : https://github.com/capaj/systemjs-hot-reloader
 - jspm loader : https://github.com/geelen/jspm-loader-jsx
 - https://github.com/jspm/registry/issues/481
 - https://github.com/jspm/jspm-cli/issues/566
