@@ -1,5 +1,9 @@
 ## ai
 
+### games
+- uc berkeley intro : http://ai.berkeley.edu/project_overview.html : hn : https://news.ycombinator.com/item?id=10929985
+- why essential : http://togelius.blogspot.com/2016/01/why-video-games-are-essential-for.html : https://news.ycombinator.com/item?id=10928020
+
 ### deep learning
 - brief history of neural nets : http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 - like kids : http://www.technologyreview.com/featuredstory/544606/can-this-man-make-ai-more-human/

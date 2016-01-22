@@ -9,19 +9,33 @@
 ### gulp
 - gulp-jspm : https://www.npmjs.com/package/gulp-jspm
 
+### hot reload
+- jspm loader : https://github.com/geelen/jspm-loader-jsx
+- https://github.com/jspm/registry/issues/481
+- https://github.com/jspm/jspm-cli/issues/566
+- death of : https://medium.com/@dan_abramov/the-death-of-react-hot-loader-765fa791d7c4#.ppticeoao
+
 ### internals
 - es6 module loader : https://github.com/ModuleLoader/es6-module-loader
+
+### jsx
+- http://stackoverflow.com/questions/30242688/how-to-run-systemjs-react-demo-locally-with-jsx
+
+### react
+- jspm-server : https://github.com/geelen/jspm-server : https://github.com/geelen/jspm-server/issues/1
+- pt 5 : http://egorsmirnov.me/2015/10/11/react-and-es6-part5.html
+- react-es6-jspm-starter : https://github.com/MacKentoch/react-es6-jspm-starter
 
 ### repos
 - cli : https://github.com/jspm/jspm-cli/blob/master/docs/getting-started.md
 
-### seeds 
+### seeds
 - sample react redux jspm : https://github.com/earlsioson/sample-react-redux-jspm
 - jspm-react : https://github.com/capaj/jspm-react
 - fork of es6-jspm-gulp-boilerplate (with working tests) : https://github.com/christianharke/es6-jspm-gulp-boilerplate
 - es6-jspm-gulp-boilerplate : https://github.com/alexweber/es6-jspm-gulp-boilerplate
 
-### tuts 
+### tuts
 - joe zim : http://www.joezimjs.com/javascript/simplifying-the-es6-workflow-with-jspm/
 
 ### videos

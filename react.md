@@ -11,6 +11,7 @@
 - velocity react lib : https://fabric.io/blog/introducing-the-velocityreact-library
 
 ### best practices
+- 2016 : https://blog.risingstack.com/react-js-best-practices-for-2016
 - smart and dumb components : https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.1hgqnzfun
 - how to structure a project : http://reactjsnews.com/structuring-react-projects/
 - common mistakes unneeded state : http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/
@@ -36,6 +37,7 @@
 - relax : https://github.com/relax/relax
 
 ### components
+- mt : https://github.com/pmdesgn/mt-react-components
 - input-moment : https://github.com/wangzuo/input-moment
 - react-slide-menu : https://github.com/sap9433/react-slide-menu
 
@@ -47,6 +49,9 @@
 - Mixins Are Dead. Long Live Composition : https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
 
 ### css
+- jss : https://medium.com/@oleg008/the-important-parts-131dda7f6f6f#.4kip7npzp : https://github.com/jsstyles/jss
+- radium thread : https://www.reddit.com/r/reactjs/comments/40fbs7/why_do_you_not_use_radium/
+- radium : https://github.com/FormidableLabs/radium/tree/master/docs/faq :
 - transitions (12/15) : https://www.reddit.com/r/reactjs/comments/413929/whats_the_established_pattern_for_css/
 - css modules webpack demo : https://css-modules.github.io/webpack-demo/
 - radium : http://projects.formidablelabs.com/radium/   
@@ -93,6 +98,9 @@
 
 ### falcor
 - react, falcor, and es6 :  http://engineering.widen.com/blog/future-of-the-web-react-falcor/?utm_source=javascriptweekly&utm_medium=email
+
+### forms
+- help undestanding (thread) : https://www.reddit.com/r/reactjs/comments/41s1n5/help_understanding_formsinputs_in_react/
 
 ### functional
 - understanding the functional revolution : http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/                     
@@ -172,9 +180,12 @@
 - khan academy : https://github.com/Khan/style-guides/blob/master/style/react.md
 
 ### svg
+- yurt tut : http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
 - building svg icons with react : http://jxnblk.com/react-icons/ : https://github.com/jxnblk/react-icons
 
 ### testing
+- unit testing without a dom : http://simonsmith.io/unit-testing-react-components-without-a-dom/
+- preferred way to test : https://discuss.reactjs.org/t/whats-the-prefered-way-to-test-react-js-components/26
 - how to unit test react using expect.js : https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
 - the tools : http://css-max.com/tools-for-testing-react/                        
 - tool implementation : http://css-max.com/testing-react-tool-implementation/    
@@ -183,6 +194,7 @@
 - recompose, a microcomponentization toolkit : https://github.com/acdlite/recompose
 
 ### tuts
+- test driven tut : http://spencerdixon.com/blog/test-driven-react-tutorial.html
 - stateless functions : https://gist.github.com/benhughes/7d28c15b7b03c9c5df83                                                                               
 - Setting up React for ES6 with Webpack and Babel : https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html                              
 - building a simple component : http://www.carlrippon.com/?p=393
@@ -198,6 +210,10 @@
 - lessons bb can get : http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/?utm_source=javascriptweekly&utm_medium=email        
 - unit testing w/o a dom : http://simonsmith.io/unit-testing-react-components-without-a-dom/                                                                 
 - react-unit : https://github.com/pzavolinsky/react-unit                                                                                                     kkkk
+
+### uis-generators
+- over-react : http://www.overreact.io/ : https://github.com/TheEvilCorp/OverReact
+- react.run : http://www.react.run/EkWm-rqdl/1
 
 ### webaudio
 - reactjs-drummachine : https://github.com/lukefreeman/ReactJS-DrumMachine

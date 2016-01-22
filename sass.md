@@ -1,5 +1,8 @@
 ## sass
 
+### best practices
+- smashing : https://www.smashingmagazine.com/2016/01/variables-in-css-architecture
+
 ### compass
 - don't use compass : http://www.sitepoint.com/dont-use-compass-anymore/
 

@@ -42,3 +42,6 @@
 ### spec
 - which flexbox react reddit : https://www.reddit.com/r/reactjs/comments/3nvocr/which_flexbox_grid_do_you_use_with_react/
 - modern web layout : http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox
+
+### tuts
+- shopify : https://css-tricks.com/designing-a-product-page-layout-with-flexbox

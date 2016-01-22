@@ -50,6 +50,7 @@
 
 ### modules
 - the struggles of publishing a js lib : http://nolanlawson.com/2015/10/19/the-struggles-of-publishing-a-javascript-library/
+- welcome to my hell : https://medium.com/@trek/last-week-i-had-a-small-meltdown-on-twitter-about-npms-future-plans-around-front-end-packaging-b424dd8d367a#.gsm9zswa2
 
 ### promises / generators
 - async i/o with generators/promises : https://ponyfoo.com/articles/asynchronous-i-o-with-generators-and-promises

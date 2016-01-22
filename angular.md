@@ -73,6 +73,8 @@
 - $scope.watch, digest/apply in angular (reddit) : https://www.reddit.com/r/angularjs/comments/3mxvoh/scopewatch_digestapply_in_angular/
 
 ### jspm
+- martin series (includes decorators) : http://martinmicunda.com/2015/02/09/how-to-start-writing-apps-with-es6-angular-1x-and-jspm/ : http://martinmicunda.com/2015/10/19/how-to-start-writing-unit-tests-with-es6-angular-1x-and-jspm/ :
+http://martinmicunda.com/2015/07/13/how-to-use-ES2016-decorators-to-avoid-angular-1x-boilerplate-code/
 - ng6 starter : https://github.com/AngularClass/NG6-starter/tree/jspm
 
 ### libs

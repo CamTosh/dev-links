@@ -13,8 +13,15 @@
 - npm for everything : http://beletsky.net/2015/04/npm-for-everything.html
 - npm on as f.e. : http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging
 
+### hooks
+- what is npm prepublish and why confusing : https://medium.com/greenkeeper-blog/what-is-npm-s-prepublish-and-why-is-it-so-confusing-a948373e6be1#.nm4xy62bv
+
 ### install
+- the issue with global (also describes how local bins accessed) : https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/
 - no more global : http://www.joezimjs.com/javascript/no-more-global-npm-packages/
+
+### local vs global
+- run local as global : http://firstdoit.com/npm-scripts/
 
 ### commonjs modules
 - writing your first : http://blog.modulus.io/writing-your-first-npm-module
@@ -29,9 +36,17 @@
 - a simple guide : http://evanhahn.com/make-an-npm-baby/
 
 ### scripts
+- why i left gulp and grunt : https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z4ltvlumi
 - run scripts : http://firstdoit.com/npm-scripts/                                              
 - npm as build tool : http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/            
 - do we need gulp : http://gon.to/2015/02/26/gulp-is-awesome-but-do-we-really-need-it/         
+
+### semver
+- home : http://semver.org/
+- nodesource primer : https://nodesource.com/blog/semver-a-primer/
+
+### tuts
+- building a simple command line tool : http://blog.npmjs.org/post/118810260230/building-a-simple-command-line-tool-with-npm
 
 ### vs bower
 - quora : https://www.quora.com/Why-use-Bower-when-there-is-npm

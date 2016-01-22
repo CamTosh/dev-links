@@ -37,6 +37,9 @@
 ### libs
 - standard library : https://github.com/zloirock/core-js
 
+### linting
+- lint like its 2015 (eshint, dan abramov post) : https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.qbyltxnww
+
 ### modules
 - axel book chapter : http://exploringjs.com/es6/ch_modules.html
 - wes bos : http://wesbos.com/javascript-modules/
