@@ -9,12 +9,16 @@
 ### Dependencies
 - google group discussion : https://groups.google.com/forum/#!msg/golang-dev/nMWoEAG55v8/iJGgur7W_SEJ
 
+### Discussions
+- go vs node for servers reddit discussion : https://www.reddit.com/r/golang/comments/1ye3z6/go_vs_nodejs_for_servers/
+
 ### Generics
 - Idiomatic Generics in Go : http://bouk.co/blog/idiomatic-generics-in-go/ : hn : https://news.ycombinator.com/item?id=8388282
 - Golang Has Generics—Why I Don't Miss Generics Anymore : http://blog.jonathanoliver.com/golang-has-generics/
 - Writing generics function without generics in Go Lang : http://stackoverflow.com/questions/29117141/writing-generics-function-without-generics-in-go-lang
 
 ### Go is Pretty Good
+- TJ post : https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b#.51xmpn1m9
 - Less is exponentially more : http://commandcenter.blogspot.de/2012/06/less-is-exponentially-more.html
 - Go Is Unapologetically Flawed, Here’s Why We Use It : http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/
 - Why Golang is doomed to succeed : https://texlution.com/post/why-go-is-doomed-to-succeed/ : hn : https://news.ycombinator.com/item?id=9711367

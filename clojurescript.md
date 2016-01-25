@@ -9,16 +9,31 @@
 - ds and algorithms : https://www.packtpub.com/application-development/clojure-data-structures-and-algorithms-cookbook
 
 ### browser-repl
+- Evaluating Cljs in the Browser : http://yogthos.net/posts/2015-11-12-ClojureScript-Eval.html
+- reepl : https://jaredforsyth.com/reepl/ : https://github.com/jaredly/reepl
+- clojurescript.io : http://www.clojurescript.io/
+- threejs-cljs-playground : https://roman01la.github.io/threejs-cljs-playground/
 - self compile post : http://swannodette.github.io/2015/07/29/clojurescript-17/
 
 ### case studies
 - capitol one : https://medium.com/@puppybits/clojurescript-is-the-triforce-of-power-984ac29da3d7#.u6a8psz8x
+
+### clojurescript-react-native
+- home : http://cljsrn.org/
 
 ### core-async
 - in the browser is sweet : http://ku1ik.com/2015/10/12/sweet-core-async.html
 
 ### datascript
 - home : https://github.com/tonsky/datascript
+- possibledb : https://github.com/runexec/possibledb
+- datascript : https://github.com/tonsky/datascript : https://news.ycombinator.com/item?id=9827549
+- Decomposing web app development : http://tonsky.me/blog/decomposing-web-app-development/
+- Getting Started with Datascript and Reagent (11/14) : http://www.slideshare.net/fractallambda/datascript-and-reagent : hn : https://github.com/bricef/datascript-workshop
+- Om/Datascript Integration Tutorial (11/15) : https://github.com/omcljs/om/wiki/DataScript-Integration-Tutorial
+- Powered By Datascript Acha Acha : http://tonsky.me/blog/acha-acha/
+- Datascript Webinar (12/14) : https://www.youtube.com/watch?v=cxkicb0UPXM
+- reagent_datascript gist (1/16)
 
 ### devcards
 - repo : https://github.com/bhauman/devcards
@@ -61,11 +76,22 @@
 ### libs
 - cljs-npm-template : https://github.com/crocket/cljs-npm-template
 
+### node
+- Difficulties Setting up a Node Repl : https://www.reddit.com/r/Clojurescript/comments/3wyk8z/difficulties_with_setting_up_a_node_repl/
+- test the waters (reddit thread) : https://www.reddit.com/r/Clojure/comments/1xl5mc/show_rclojure_not_sure_if_anyone_is_using/
+- matchcolor : https://github.com/seabre/matchcolor
+- dogfort : https://github.com/whamtet/dogfort
+- node dev with figwheel : https://github.com/bhauman/lein-figwheel/wiki/Node.js-development-with-figwheel
+- Getting Started with Clojurescript and Node (1/15) : http://www.mase.io/code/clojure/node/2015/01/24/getting-started-with-clojurecript-and-node/
+- Using Node with Clojure and Cljs Applications : https://devcenter.heroku.com/articles/using-node-js-with-clojure-and-clojurescript-applications
+
 ### om
 - om no (vs reagent) : https://diogo149.github.io/2014/10/19/om-no/
 - rarely reversible : http://www.brandonbloom.name/blog/2015/04/26/rarely-reversible/
 
 ### om next
+- A Rant on Om Next : https://www.reddit.com/r/Clojure/comments/3vk58p/a_rant_on_om_next/
+- Why we use om and why we're excited about Om Next (1/16) : http://blog.circleci.com/why-we-use-om-and-why-were-excited-for-om-next/ : hn : https://news.ycombinator.com/item?id=10946721
 - om next for react devs : https://medium.com/@roman01la/om-next-for-react-devs-introduction-and-project-setup-52b88f87264#.1j2adnq49
 - docs : https://github.com/omcljs/om/wiki/Quick-Start-(om.next)
 - https://github.com/omcljs/om/wiki#om-next
@@ -76,6 +102,13 @@
 
 ### people
 - bruce hauman (figwheel) : http://rigsomelight.com/
+
+### posts
+- Ten Reasons to Use : https://adambard.com/blog/ten-reasons-to-use-clojure/
+- React Four Ways : How to use React in Cljs and Why : http://blog.peeja.com/blog/2014/10/01/react-four-ways-how-to-use-react-in-clojurescript/
+- Quick Start : https://github.com/clojure/clojurescript/wiki/Quick-Start
+- Learning Cljs : https://blog.redradix.com/learning-clojurescript/
+- Why I Choose Cljs : http://spin.atomicobject.com/2015/11/15/why-i-choose-clojurescript/?utm_source=dlvr.it&utm_medium=twitter
 
 ### reference apps
 - ascii cinema : https://github.com/asciinema/asciinema-player : https://asciinema.org/
@@ -91,6 +124,12 @@
 - natal-shell : https://github.com/dmotz/natal-shell
 
 ### reagent
+- What is Everyone Using to Build a SPA : https://www.reddit.com/r/Clojurescript/comments/408zq8/what_is_everyone_using_to_build_an_spa/
+- Keeping Client State Up To Date : http://stackoverflow.com/questions/27159921/keeping-client-state-up-to-date-in-reagent-clojurescript
+- Twitter : https://twitter.com/reagentproject
+- Isomorphic Clojurescript with Reagent and Node (1/16) : http://blog.testdouble.com/posts/2016-01-21-isomorphic-clojurescript.html
+- FRP/CORE/Datascript (reddit thread) (6/15) : https://www.reddit.com/r/Clojure/comments/3d87vt/clean_concise_frp_lib_integration_for_reagent/
+- Managing State in Reagent (reddit thread) (12/15) : https://www.reddit.com/r/Clojurescript/comments/3xefhz/managing_state_in_reagent/
 - managing state in reagent (thread) 12/15/15 : https://www.reddit.com/r/Clojurescript/comments/3xefhz/managing_state_in_reagent/  
 - great intro tut : http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html
 - you should be using figwheel reagent : http://timothypratley.blogspot.com/2015/07/you-should-be-using-figwheelreagent.html
@@ -113,6 +152,10 @@
 
 ### seeds
 - chestnut (om) : https://github.com/plexus/chestnut
+
+### sente
+- sente : https://github.com/ptaoussanis/sente
+- re-frame-sente : https://github.com/dariooddenino/re-frame-sente
 
 ### stacks
 - day 8 : https://github.com/Day8

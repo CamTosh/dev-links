@@ -45,6 +45,10 @@
 - wes bos : http://wesbos.com/javascript-modules/
 - d3 discussion (monster threads, touch on rollup) : https://github.com/mbostock/d3/issues/2461 : https://github.com/mbostock/d3/issues/2220
 
+### overviews / cheat sheets
+- Luke Hoban : https://github.com/lukehoban/es6features#readme
+- Drk : https://github.com/DrkSephy/es6-cheatsheet
+
 ### repl
 - es6 repl : http://jsoverson.github.io/es6repl
 - babel-repl : https://github.com/paulserraino/babel-repl
