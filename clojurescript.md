@@ -9,20 +9,31 @@
 - ds and algorithms : https://www.packtpub.com/application-development/clojure-data-structures-and-algorithms-cookbook
 
 ### browser-repl
+- planck : https://github.com/mfikes/planck
+- jsbin-cljs : https://github.com/roman01la/jsbin-cljs : post : https://blog.redradix.com/learning-clojurescript/
+- interactive cljs/reagent tuts : https://jaredforsyth.com/tutorial-cljs/#cljs
 - Evaluating Cljs in the Browser : http://yogthos.net/posts/2015-11-12-ClojureScript-Eval.html
 - reepl : https://jaredforsyth.com/reepl/ : https://github.com/jaredly/reepl
 - clojurescript.io : http://www.clojurescript.io/
+- clojurescript.net : http://clojurescript.net/
 - threejs-cljs-playground : https://roman01la.github.io/threejs-cljs-playground/
 - self compile post : http://swannodette.github.io/2015/07/29/clojurescript-17/
 
 ### case studies
 - capitol one : https://medium.com/@puppybits/clojurescript-is-the-triforce-of-power-984ac29da3d7#.u6a8psz8x
 
+### cheatsheets
+- clojurescript-syntax-in-15-minutes : https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes
+
 ### clojurescript-react-native
 - home : http://cljsrn.org/
 
 ### core-async
 - in the browser is sweet : http://ku1ik.com/2015/10/12/sweet-core-async.html
+
+### d3
+- Practical Time Series Visualization using D3 + OM : http://blog.getliquidlandscape.com/2015/01/08/practical-time-series-visualization-using-d3-om/
+- d3 Methods as Data in ClojureScript : https://lambdahands.github.io/clojure/vizualization/clojurescript/2014/08/10/d3-methods-as-data.html
 
 ### datascript
 - home : https://github.com/tonsky/datascript
@@ -35,11 +46,17 @@
 - Datascript Webinar (12/14) : https://www.youtube.com/watch?v=cxkicb0UPXM
 - reagent_datascript gist (1/16)
 
+### dev tools
+- cljs-devtools : https://github.com/binaryage/cljs-devtools
+
 ### devcards
 - repo : https://github.com/bhauman/devcards
 - intro post : http://rigsomelight.com/2014/06/03/devcards-taking-interactivity-to-the-next-level.html
 - video presentation : https://www.youtube.com/watch?v=G7Z_g2fnEDg
 - strange loop code : https://github.com/bhauman/strange-loop-2015
+
+### hiccup
+- jumping-from-html-to-clojurescript : https://github.com/shaunlebron/jumping-from-html-to-clojurescript
 
 ### hoplon
 - css layout discussion : http://hoplon.discoursehosting.net/t/lets-talk-about-layout/223
@@ -53,6 +70,11 @@
 ### forum
 - reddit : https://www.reddit.com/r/Clojurescript
 - https://groups.google.com/forum/#!forum/clojurescript
+
+### garden
+- repo : https://github.com/noprompt/garden
+- gardner : https://github.com/facjure/gardener
+- mesh : https://github.com/facjure/mesh
 
 ### getting started
 - curious walkthrough 11/11/15 : http://timothypratley.blogspot.com/2015/11/curious-about-clojurescript-but-not.html
@@ -73,6 +95,9 @@
 - yolm react cljs approach : http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
 - gsoc : http://mneise.github.io/
 
+### laziness
+- Lazy Sequences in Clojure : http://theatticlight.net/posts/Lazy-Sequences-in-Clojure/
+
 ### libs
 - cljs-npm-template : https://github.com/crocket/cljs-npm-template
 
@@ -90,6 +115,7 @@
 - rarely reversible : http://www.brandonbloom.name/blog/2015/04/26/rarely-reversible/
 
 ### om next
+- sablono (hiccup style templating) : https://github.com/r0man/sablono
 - A Rant on Om Next : https://www.reddit.com/r/Clojure/comments/3vk58p/a_rant_on_om_next/
 - Why we use om and why we're excited about Om Next (1/16) : http://blog.circleci.com/why-we-use-om-and-why-were-excited-for-om-next/ : hn : https://news.ycombinator.com/item?id=10946721
 - om next for react devs : https://medium.com/@roman01la/om-next-for-react-devs-introduction-and-project-setup-52b88f87264#.1j2adnq49
@@ -115,6 +141,8 @@
 - reddit list : https://www.reddit.com/r/Clojurescript/comments/3snddo/large_scale_open_source_projects/
 
 ### re-frame
+- Re-Frame - Functional Reactive Programming With Clojurescript : https://dhruvp.github.io/2015/03/07/re-frame/
+- Components re-rendering even though their data hasn't changed : https://github.com/Day8/re-frame/issues/29
 - clear state on logout (10/27/15) : https://carouselapps.com/2015/10/27/dont-forget-to-clear-your-client-side-state-when-logging-a-user-out/
 - home : https://github.com/Day8/re-frame
 - intro vid : https://skillsmatter.com/skillscasts/6718-introduction-to-clojurescript-reagent-and-reframe
@@ -124,6 +152,15 @@
 - natal-shell : https://github.com/dmotz/natal-shell
 
 ### reagent
+- discussion vs. om next : https://www.reddit.com/r/Clojure/comments/3vk58p/a_rant_on_om_next/
+- reagent_datascript : https://gist.github.com/allgress/11348685
+- reagent-cookbook : https://github.com/reagent-project/reagent-cookbook
+- re-com (component lib) : https://github.com/Day8/re-com
+- reagent-figwheel : https://github.com/gadfly361/reagent-figwheel
+- Building a mailchimp login form in Clojurescript and Reagent : http://dhruvp.github.io/2015/02/23/mailchimip-clojure/
+- soda-ash (semantic ui bindings) : https://github.com/gadfly361/soda-ash
+- Functional programming on frontend with React & ClojureScript : http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html : pexeso : https://github.com/mtomas/clojurescript-reagent-pexeso
+- reagent-template : https://github.com/reagent-project/reagent-template
 - What is Everyone Using to Build a SPA : https://www.reddit.com/r/Clojurescript/comments/408zq8/what_is_everyone_using_to_build_an_spa/
 - Keeping Client State Up To Date : http://stackoverflow.com/questions/27159921/keeping-client-state-up-to-date-in-reagent-clojurescript
 - Twitter : https://twitter.com/reagentproject
@@ -131,7 +168,6 @@
 - FRP/CORE/Datascript (reddit thread) (6/15) : https://www.reddit.com/r/Clojure/comments/3d87vt/clean_concise_frp_lib_integration_for_reagent/
 - Managing State in Reagent (reddit thread) (12/15) : https://www.reddit.com/r/Clojurescript/comments/3xefhz/managing_state_in_reagent/
 - managing state in reagent (thread) 12/15/15 : https://www.reddit.com/r/Clojurescript/comments/3xefhz/managing_state_in_reagent/  
-- great intro tut : http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html
 - you should be using figwheel reagent : http://timothypratley.blogspot.com/2015/07/you-should-be-using-figwheelreagent.html
 - home : https://reagent-project.github.io/
 - forum : https://groups.google.com/forum/#!forum/reagent-project
@@ -143,12 +179,16 @@
 - reagant project : https://github.com/reagent-project
 
 ### repl
+- Fast JavaScriptCore Desktop ClojureScript REPL : https://news.ycombinator.com/item?id=9898839
 - in browser repl : http://www.clojurescript.io/
 
 ### resources
 - wiki : https://github.com/clojure/clojurescript/wiki
 - awesome cljs : https://github.com/emrehan/awesome-clojurescript
 - 2015 year in review : http://swannodette.github.io/2015/12/23/year-in-review/
+
+### Secretary
+- repo : https://github.com/gf3/secretary
 
 ### seeds
 - chestnut (om) : https://github.com/plexus/chestnut
@@ -169,6 +209,8 @@
 - henrys post : http://henryzhu.me/2015/08/14/reagent-dynamic-lists
 
 ### tutorials
+- cljs rocks : http://www.mattgreer.org/articles/reagent-rocks/
+- quick start (official) : https://github.com/clojure/clojurescript/wiki/Quick-Start
 - step 1 : http://timothypratley.blogspot.com/2015/11/curious-about-clojurescript-but-not.html
 
 ### ui libs

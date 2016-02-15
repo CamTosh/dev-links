@@ -26,6 +26,7 @@ tutsplus : http://webdesign.tutsplus.com/tutorials/using-postcss-for-minificatio
 - deep dive series : http://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889
 
 ### with sass
+- Extending Sass with PostCSS : ashleynolan.co.uk/blog/extend-sass-with-postcss
 - webdesign : http://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591
 - bipolar : http://twin.github.io/css-preprocessing-drama/
 

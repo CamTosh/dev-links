@@ -10,6 +10,7 @@
 - george hotz car : http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/ : https://news.ycombinator.com/item?id=10744206
 
 ### maching learning
+- for musicians and artists : https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
 - medical breakthroughs : http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program : hn : https://news.ycombinator.com/item?id=10392888
 
 ### neural networks

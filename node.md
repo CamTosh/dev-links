@@ -33,6 +33,10 @@
 - hapi : http://hapijs.com/
 - bluebird promises : zpalexander.com/blog/javascript-promises-node-js/
 
+### microservices
+- fuge : http://www.nearform.com/nodecrunch/release-fuge-microservices/
+- seneca : www.richardrodger.com/seneca-microservices-nodejs
+
 ### installation
 #### local vs. global
 - trini : http://blog.dwaynecrooks.com/post/110903139442/why-do-we-need-to-install-gulp-globally-and
@@ -41,6 +45,10 @@
 ### security
 - rising stack tips : https://blog.risingstack.com/node-js-security-tips/
 - rising stack tut : https://blog.risingstack.com/node-js-security-checklist/?utm_source=javascriptweekly&utm_medium=email
+
+### streams
+- highland.js (streams) : http://highlandjs.org/
+- browser-streams : https://github.com/dominictarr/browser-stream
 
 ### templating engines
 - marko : http://markojs.com/

@@ -22,6 +22,15 @@
 - gh basics : https://help.github.com/articles/markdown-basics/
 - gh flavored : https://help.github.com/articles/github-flavored-markdown/
 
+### open source
+- how to contribute : https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
+
+### performance
+- google guidelines : https://developers.google.com/web/fundamentals/performance/?hl=en
+
+### philosophies
+- 10 Philosophies for Engineers : http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/
+
 ### printing
 - printliminator : https://github.com/CSS-Tricks/The-Printliminator
 
@@ -30,6 +39,9 @@
 
 ### semver
 - good description : http://semver.org/
+
+### streams
+- 2016 the year of web streams : https://jakearchibald.com/2016/streams-ftw
 
 ### svg
 - ai to svg lava lamp : http://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp

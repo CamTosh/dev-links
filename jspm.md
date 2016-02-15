@@ -36,6 +36,9 @@
 - fork of es6-jspm-gulp-boilerplate (with working tests) : https://github.com/christianharke/es6-jspm-gulp-boilerplate
 - es6-jspm-gulp-boilerplate : https://github.com/alexweber/es6-jspm-gulp-boilerplate
 
+### system.js
+- why is not dominating thread : https://www.reddit.com/r/javascript/comments/2is81v/why_is_not_systemjs_dominating_the_field_of/
+
 ### tuts
 - joe zim : http://www.joezimjs.com/javascript/simplifying-the-es6-workflow-with-jspm/
 
@@ -44,4 +47,6 @@
 - looping gifs : https://www.youtube.com/watch?v=iukBMY4apvI : http://glenmaddern.com/articles/javascript-in-2015 : https://news.ycombinator.com/item?id=8849907
 
 ### vs webpack
+- vs webpack : http://ilikekillnerds.com/2015/07/jspm-vs-webpack/
 - github thread comparison : https://gist.github.com/OliverJAsh/bcc676e381a06dbb3be0
+- Using browserify/webpack? Why not try jspm and SystemJS : http://nervosax.com/2015/08/05/why-not-try-jspm-and-systemjs/

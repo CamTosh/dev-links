@@ -1,6 +1,8 @@
 ## es6   
 
 ### classes
+- 10 Interview Questions
+Every JavaScript Developer Should Know : https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.utm7avrly
 - how to use and sleep at night : https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 - a simple challenge to classical fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
 
@@ -41,13 +43,18 @@
 - lint like its 2015 (eshint, dan abramov post) : https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.qbyltxnww
 
 ### modules
+- modules : http://exploringjs.com/es6/ch_modules.html
+- the struggles of publishing a js lib (awesome module overview) : http://nolanlawson.com/2015/10/19/the-struggles-of-publishing-a-javascript-library/
+- little loader : https://blog.formidable.com/the-only-correct-script-loader-ever-made-de507420e2b8#.w20qwpala
 - axel book chapter : http://exploringjs.com/es6/ch_modules.html
 - wes bos : http://wesbos.com/javascript-modules/
 - d3 discussion (monster threads, touch on rollup) : https://github.com/mbostock/d3/issues/2461 : https://github.com/mbostock/d3/issues/2220
 
 ### overviews / cheat sheets
+- 350 bullet points : https://github.com/bevacqua/es6
 - Luke Hoban : https://github.com/lukehoban/es6features#readme
 - Drk : https://github.com/DrkSephy/es6-cheatsheet
+- choosing in 2016 over frameworks : https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5#.jl8d7x79 8
 
 ### repl
 - es6 repl : http://jsoverson.github.io/es6repl
@@ -61,3 +68,9 @@
 - ponyfoo series : http://ponyfoo.com/articles/es6-promises-in-depth?utm_source=javascriptweekly&utm_medium=email : overview : https://ponyfoo.com/articles/es6
 - babel tut : https://babeljs.io/docs/learn-es2015/
 - moving to babel : http://www.phpied.com/from-jsxtransformer-to-babel
+
+### testing
+- ava : https://github.com/sindresorhus/ava
+
+### transpiling
+- cost : https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016

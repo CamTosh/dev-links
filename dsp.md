@@ -1,5 +1,8 @@
 ## dsp
 
+### articles
+- music and the brain : http://www.nytimes.com/2016/02/09/science/new-ways-into-the-brains-music-room.html?_r=0
+
 ### books
 - understanding dsp : http://www.amazon.com/Understanding-Digital-Signal-Processing-Edition/dp/0137027419
 - dspguide : http://www.dspguide.com/
@@ -27,7 +30,8 @@
 - mathematics of the dft : https://ccrma.stanford.edu/~jos/st/                                                                                                     
 
 ### visualizing
-- visualizing fft : https://news.ycombinator.com/item?id=10270919                                                                                                  
-- circles sines : http://jackschaedler.github.io/circles-sines-signals/                                                                                            
-- better explained fft : http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/                                                        
-- intuitive explanation of fourier theory : http://cns-alumni.bu.edu/~slehar/fourier/fourier.html                                                                  
+- understanding fourier visualizations : http://bgrawi.com/Fourier-Visualizations/
+- visualizing fft : https://news.ycombinator.com/item?id=10270919        
+- circles sines : http://jackschaedler.github.io/circles-sines-signals/         
+- better explained fft : http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/   
+- intuitive explanation of fourier theory : http://cns-alumni.bu.edu/~slehar/fourier/fourier.html  

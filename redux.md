@@ -55,6 +55,12 @@
 - docs : http://rackt.github.io/redux/docs/basics/index.html
 - awesome redux : https://github.com/xgrommx/awesome-redux
 
+### responsiveness
+- redux-responsive : https://github.com/aaivazis/redux-responsive
+
+### rethinkdb
+- redux and rethink : https://glebbahmutov.com/blog/redux-and-rethinkdb/
+
 ### routing
 - redux simple router : https://github.com/jlongster/redux-simple-router
 - simple routing with redux : http://jamesknelson.com/simple-routing-redux-react/
@@ -72,7 +78,10 @@
 - este : https://github.com/este/este
 - react redux webpack universal hot loader : https://github.com/erikras/react-redux-universal-hot-example
 - modern wp react starter : http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
-- redux-starter-kit :https://github.com/davezuko/react-redux-starter-kit                                                            
+
+### sagas
+- from action creators to sagas : http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
+- redux-starter-kit :https://github.com/davezuko/react-redux-starter-kit    
 
 ### tuts
 - tero full stack tut : http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
@@ -88,9 +97,6 @@
 - adrenaline : redux/relay bindings : https://github.com/gyzerok/adrenaline                                      
 - react-relay-redux : https://github.com/cdebotton/react-relay-redux                                             
 - thread : https://github.com/rackt/redux/issues/464                                                             
-
-### sagas
-- from action creators to sagas : http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
 
 ### testing
 - test driven tut : http://spencerdixon.com/blog/test-driven-react-tutorial.html

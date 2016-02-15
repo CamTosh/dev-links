@@ -7,6 +7,9 @@
 ### clojure
 - nrepl package : https://atom.io/packages/nrepl
 
+### contributing
+- how i fixed atom : http://davidvgalbraith.com/how-i-fixed-atom/ : https://news.ycombinator.com/item?id=10993470
+
 ### docs
 - main : https://atom.io/docs/latest/
 
@@ -24,6 +27,7 @@
 - home : https://code.facebook.com/posts/397706937084869/
 
 ### packages
+- browser-plus : https://atom.io/packages/browser-plus
 - terminal-plus : https://atom.io/packages/terminal-plus
 - nuclide : https://atom.io/packages/nuclide-installer : https://github.com/facebook/nuclide
 - vim-mode : https://github.com/atom/vim-mode

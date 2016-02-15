@@ -86,6 +86,9 @@ http://martinmicunda.com/2015/07/13/how-to-use-ES2016-decorators-to-avoid-angula
 - why one file one module : https://github.com/gocardless/angularjs-style-guide/issues/14
 - scotch best practices modules : https://scotch.io/tutorials/angularjs-best-practices-directory-structure
 
+### ng-options
+- solutions : http://gurustop.net/blog/2014/01/28/common-problems-and-solutions-when-using-select-elements-with-angular-js-ng-options-initial-selection/
+
 ### promises
 - promises and $q to handle async : http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/
 

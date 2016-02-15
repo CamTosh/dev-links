@@ -1,6 +1,7 @@
 ## css
 
 ### best practices
+- learn the pedantic way (excellent) : http://book.mixu.net/css/index.html
 - google recommends inlining small css : https://news.ycombinator.com/item?id=10886259
 - optimize delivery : https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
 - css wizardry code smells : http://csswizardry.com/2012/11/code-smells-in-css/
@@ -25,6 +26,9 @@
 ### ids
 - in defense : http://www.zeldman.com/2012/11/21/in-defense-of-descendant-selectors-and-id-elements/
 
+### images
+- editing in css : www.thedotpost.com/2015/12/una-kravets-editing-images-in-css
+
 ### inheritance
 - misuse of the cascade : https://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/
 
@@ -37,10 +41,14 @@
 ### libs
 - css-layout (js implementation of flexbox) : https://github.com/facebook/css-layout
 
+### native variables
+- why i'm excited : http://philipwalton.com/articles/why-im-excited-about-native-css-variables/
+
 ### rem
 - using rem : www.sitepoint.com/understanding-and-using-rem-units-in-css/
 
 ### responsive images
+- generator : https://www.smashingmagazine.com/2016/01/responsive-image-breakpoints-generation/
 - workflow : jonyablonski.com/2015/responsive-image-workflow/
 - using now 2015 : alistapart.com/article/using-responsive-images-now
 
@@ -49,6 +57,12 @@
 - huge stylguide (automated lib) : http://hugeinc.github.io/styleguide/index.html
 - sketch style inventory : https://github.com/getflourish/Sketch-Style-Inventory
 - styleguide-generators
+
+### typography
+- responsive web typography : http://www.zell-weekeat.com/responsive-typography/
+
+### utility approach
+- expressive-css : http://johnpolacek.github.io/expressive-css/styleguide/
 
 ### web fonts
 - the best way 2015 : https://helloanselm.com/2015/using-webfonts-in-2015/#2.-avoid-big-reflows-in-layout

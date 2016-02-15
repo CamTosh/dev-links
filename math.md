@@ -5,3 +5,6 @@
 
 ### tau
 - tau manifesto : http://tauday.com/tau-manifesto
+
+### resources
+- better explained : http://betterexplained.com/

@@ -11,6 +11,8 @@
 - velocity react lib : https://fabric.io/blog/introducing-the-velocityreact-library
 
 ### best practices
+- observable containers : https://medium.com/@milankinen/containers-are-dead-long-live-observable-combinators-2cb0c1f06c96#.g0rumaqmn
+- 9 things (good approach overview) (1/16): https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 - 2016 : https://blog.risingstack.com/react-js-best-practices-for-2016
 - smart and dumb components : https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.1hgqnzfun
 - how to structure a project : http://reactjsnews.com/structuring-react-projects/
@@ -37,6 +39,7 @@
 - relax : https://github.com/relax/relax
 
 ### components
+- data-grid : https://www.ag-grid.com/best-react-data-grid/index.php
 - mt : https://github.com/pmdesgn/mt-react-components
 - input-moment : https://github.com/wangzuo/input-moment
 - react-slide-menu : https://github.com/sap9433/react-slide-menu
@@ -191,6 +194,8 @@
 - building svg icons with react : http://jxnblk.com/react-icons/ : https://github.com/jxnblk/react-icons
 
 ### testing
+- react-shallow-testutils : https://github.com/sheepsteak/react-shallow-testutils
+- enzyme : https://github.com/airbnb/enzyme
 - unit testing without a dom : http://simonsmith.io/unit-testing-react-components-without-a-dom/
 - preferred way to test : https://discuss.reactjs.org/t/whats-the-prefered-way-to-test-react-js-components/26
 - how to unit test react using expect.js : https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
@@ -201,6 +206,12 @@
 - recompose, a microcomponentization toolkit : https://github.com/acdlite/recompose
 
 ### tuts
+- react bible : https://www.stanleycyang.com/tutorials/the-reactjs-bible
+- 2016 : https://blog.risingstack.com/react-js-best-practices-for-2016
+- function defs in js : https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
+- top 5 react getting started tutorials : http://andrewhfarmer.com/getting-started-tutorials/
+- pete hunt how-to : https://github.com/petehunt/react-howto
+- smart and dumb components : https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.1hgqnzfun
 - test driven tut : http://spencerdixon.com/blog/test-driven-react-tutorial.html
 - stateless functions : https://gist.github.com/benhughes/7d28c15b7b03c9c5df83                                                                               
 - Setting up React for ES6 with Webpack and Babel : https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html                              

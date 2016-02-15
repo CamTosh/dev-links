@@ -16,5 +16,8 @@
 ### editors
 - shaderfrog : http://shaderfrog.com/
 
+### threads
+- off the main thread : https://hacks.mozilla.org/2016/01/webgl-off-the-main-thread/
+
 ### three.js
 - cube : http://blog.neribarnini.me/3d-audio-analyser-with-three-js-and-web-audio-api/

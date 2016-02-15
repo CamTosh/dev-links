@@ -4,6 +4,15 @@
 persistent vectors : http://hypirion.com/musings/understanding-persistent-vector-pt-1
 optimizing hash-array mapped tries : http://blog.acolyer.org/2015/11/27/hamt/
 
+### API References
+- Grimoire : http://conj.io/
+- clojure.github.io : https://clojure.github.io/clojure/clojure.core-api.html#clojure.core/count
+- CrossClj : https://crossclj.info/
+
+### Best Practices / Style Guides
+- Rosetta Code : http://rosettacode.org/wiki/Category:Clojure
+- clojure-style-guide : https://github.com/bbatsov/clojure-style-guide
+
 ## Boot
 Leiningen Feature Parity in Boot : https://blog.juxt.pro/posts/boot-parity.html
 
@@ -23,6 +32,7 @@ Leiningen Feature Parity in Boot : https://blog.juxt.pro/posts/boot-parity.html
 - repo : https://github.com/JulianBirch/cljs-ajax
 
 ### Core Async
+- Understanding Core Async vs. Events and Callbacks : https://dhruvp.github.io/2015/02/24/understanding-core-async-examples/
 - Reddit Thread : https://www.reddit.com/r/Clojure/comments/40zxym/are_corelogic_and_coreasync_abandoned_or_something/
 
 ### Components
@@ -41,8 +51,17 @@ Swannodette : https://github.com/swannodette/logic-tutorial
 - Datomic - The most innovative db you've never heard of (1/16) : http://augustl.com/blog/2016/datomic_the_most_innovative_db_youve_never_heard_of/ : hn : https://news.ycombinator.com/item?id=7640473
 - gin rummy tut : http://thegeez.net/2014/06/12/gin_datomic.html
 
+### dependencies
+- vortices : http://www.unexpected-vortices.com/clojure/brief-beginners-guide/libs-management-and-use.html
+
+### design patterns
+- mishadoff : http://mishadoff.com/blog/clojure-design-patterns/ : https://en.wikipedia.org/wiki/Design_Patterns
+
 ### editing
 - parinfer : http://shaunlebron.github.io/parinfer/index.html
+
+### edn
+- rewrite-clj : https://github.com/xsc/rewrite-clj
 
 ### Errors
 Library Mismatch Thread : https://www.reddit.com/r/Clojure/comments/40i2ku/the_joy_of_clojure/
@@ -78,3 +97,6 @@ TDD in Clojure : https://engineering.fundingcircle.com/blog/2016/01/11/tdd-in-cl
 
 ### tutorials
 - Baconbot 1.0 : http://www.tompurl.com/2015/11/18/fun-with-clojure-baconbot-10/ : http://www.tompurl.com/2015/11/20/fun-with-clojurescript-baconbot-20/#id2
+
+### yesql
+- home : https://github.com/krisajenkins/yesql
