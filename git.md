@@ -1,6 +1,7 @@
 ## git
 
 ### general resources
+- from the inside out : http://maryrosecook.com/blog/post/git-from-the-inside-out
 - atlassian : https://www.atlassian.com/git/tutorials/advanced-overview
 - scm : https://git-scm.com/doc
 

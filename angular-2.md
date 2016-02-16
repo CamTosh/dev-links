@@ -8,8 +8,14 @@
 ### best practices
 - ngredux integration : http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/
 
+### beta notes
+- why can't compile : https://www.xplatform.rocks/2016/02/15/angular2-quicky-beta6-breaking-changes-for-tsc/
+
 ### component libraries
 - How to create an Angular 2 component library, and how to consume it using SystemJs or Webpack : http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
+
+### course
+- udemy course : https://www.udemy.com/the-complete-guide-to-angular-2/learn/#/
 
 ### debugging
 - Debugging Angular 2 Applications from the Console : http://juristr.com/blog/2016/02/debugging-angular2-console/
@@ -23,6 +29,9 @@
 ### forms
 - A Deep Dive Into Data: How Forms Are Different in Angular 2.0 (1/16) : http://blog.rangle.io/data-angular-2-forms/
 
+### frp
+- Functional Reactive Programming for Angular 2 Developers — RxJs and Observables : https://dzone.com/articles/functional-reactive-programming-for-angular-2-deve
+
 ### getting started
 - Writing your first app on Angular 2 — Part 1 : https://justanotherdevblog.com/writing-your-first-app-on-angular-2-part-1-b794ffdfc802#.ly4uyd943
 - repo : https://www.reddit.com/r/Angular2/comments/43p2oi/helpful_github_repos_and_code_snippets_curated/
@@ -31,6 +40,8 @@
 - using : https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/
 
 ### info
+- ben nadel js demos : https://github.com/bennadel/JavaScript-Demos
+- awesome angular : https://github.com/AngularClass/awesome-angular2#experts-on-twitter
 - post mortem : https://medium.com/@MikeRyan52/angular-2-first-app-post-mortem-b2b2b3618828#.7tieqwy66
 - 1 vs 2 angularclass : https://angularclass.com/angular-2-for-angularjs-developers/
 - for react devs : https://angularclass.com/angular-2-for-react-developers/
@@ -67,6 +78,7 @@
 - Testing Angular 2 apps – Part 3: RouterOutlet and API : https://developers.livechatinc.com/blog/testing-angular-2-apps-routeroutlet-and-http/
 
 ### tuts
+- rethinkdb official post : https://www.rethinkdb.com/blog/angular2-typescript/
 - creating a tabs component : https://dzone.com/articles/learning-angular-2-creating-a-tabs-component
 - getting started : https://www.nathanhleung.com/article/2015/12/26/getting-started-with-the-mean-stack/
 

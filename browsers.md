@@ -22,3 +22,6 @@
 
 ### firefox devtools
 - post : https://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/
+
+### webkit
+- jscore (webkit) : http://trac.webkit.org/wiki/JavaScriptCore

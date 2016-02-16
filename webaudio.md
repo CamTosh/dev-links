@@ -129,6 +129,7 @@
 - guitar tuner : https://aerotwist.com/blog/guitar-tuner/                                                 
 
 ### videos
+- livecoding drum machine : http://drum-machine.maryrosecook.com/
 - making the web rock : https://www.youtube.com/watch?v=wZrNI-86zYI
 - elements of dance music : https://www.youtube.com/watch?v=Ww0jTafmd_w
 - egghead : https://egghead.io/lessons/javascript-web-audio-api-the-delay-node

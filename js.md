@@ -24,7 +24,7 @@
 - lodash cookbook : https://leanpub.com/lodashcookbook/
 - Reducing Filter and Map Down to Reduce : http://elijahmanor.com/reducing-filter-and-map-down-to-reduce/
 - function defs in js : https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
-- rigsomelight :  http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
+- yome widget / rigsomelight :  http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
 - 10 things stop rewriting/lodash : http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
 
 ### grids
