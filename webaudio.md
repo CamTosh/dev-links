@@ -21,6 +21,9 @@
 - km : http://www.keithmcmillen.com/blog/simple-synthesis-part-9-amplitude-modulation/
 - km : http://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-and-midi-api-amplitude-modulation/
 
+### audioparams
+- understanding : http://www.soundesign.info/2016/02/07/understanding-audioparams-precision-control-web-audio-nodes/
+
 ### babylon
 - fun and immersive web experiences (ties with webgl meshes) : http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/
 
@@ -31,8 +34,14 @@
 ### chaining
 - chaining : https://googlechrome.github.io/samples/webaudio-method-chaining/
 
+### clojurescript
+- klangmeister : http://ctford.github.io/klangmeister/
+
 ### d3
 - exploring webaudio with d3 : http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html
+
+### decoding
+- Using Web Audio API to decode and play an MP3 file (part 1) : http://nicdoescode.distinctive.com.au/2015/12/26/using-web-audio-api-to-decode-and-play-an-mp3-file-part-1/
 
 ### devtools
 - chrome devtools extension : https://github.com/spite/WebAudioExtension              
@@ -119,6 +128,8 @@
 - creating virtual midi ports osx for webmidi : http://skratchdot.com/2016/01/creating-virtual-midi-ports-on-osx/
 
 ### works
+- arpeggiator : http://arpeggiator.desandro.com/
+- glowsynth : http://outputchannel.com/glowsynth/
 - virtual oscilloscope : https://academo.org/demos/virtual-oscilloscope/
 - samuplator : http://sampulator.com/
 - little drummer toy : http://littledrummertoy.ableton.com/

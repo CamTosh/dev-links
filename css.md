@@ -12,6 +12,9 @@
 ### bootstrap
 - responsive tut : http://www.revillweb.com/tutorials/bootstrap-tutorial/
 
+### browser
+- future of loading : https://jakearchibald.com/2016/link-in-body/
+
 ### centering / alignment
 - 6 ways (inc flexbox) : http://www.hongkiat.com/blog/css-tricks-vertical-align-content/
 - vertical align anything with 3 lines of code : http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/

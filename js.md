@@ -27,6 +27,9 @@
 - yome widget / rigsomelight :  http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
 - 10 things stop rewriting/lodash : http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
 
+### graphing
+- sigma : http://sigmajs.org
+
 ### grids
 - ag-grid : https://www.ag-grid.com/
 

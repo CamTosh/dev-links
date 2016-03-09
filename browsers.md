@@ -1,7 +1,7 @@
 ## browsers
 
 ### chrome
--
+- MediaStream : https://developers.google.com/web/updates/2016/01/mediarecorder
 - v2 mobile testing : https://www.youtube.com/watch?v=r-uc-fENa7w
 
 ### chrome devtools
@@ -22,6 +22,8 @@
 
 ### firefox devtools
 - post : https://www.smashingmagazine.com/2015/12/revisiting-firefox-devtools/
+
+
 
 ### webkit
 - jscore (webkit) : http://trac.webkit.org/wiki/JavaScriptCore

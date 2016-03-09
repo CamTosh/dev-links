@@ -18,6 +18,9 @@
 - grid : http://flexboxgrid.com/
 - better simpler grids : http://philipwalton.github.io/solved-by-flexbox/demos/grids/
 
+### issues
+- keyboard nav disconnect : tink.uk/flexbox-the-keyboard-navigation-disconnect
+
 ### libs
 - css-layout : https://github.com/facebook/css-layout#default-values
 

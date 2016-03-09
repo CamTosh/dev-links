@@ -42,6 +42,9 @@
 - trini : http://blog.dwaynecrooks.com/post/110903139442/why-do-we-need-to-install-gulp-globally-and
 - s.o. : http://stackoverflow.com/questions/22115400/why-do-we-need-to-install-gulp-globally-and-locally
 
+### repl
+- tonic : https://tonicdev.com/
+
 ### security
 - rising stack tips : https://blog.risingstack.com/node-js-security-tips/
 - rising stack tut : https://blog.risingstack.com/node-js-security-checklist/?utm_source=javascriptweekly&utm_medium=email

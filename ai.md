@@ -12,6 +12,7 @@
 ### maching learning
 - for musicians and artists : https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
 - medical breakthroughs : http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program : hn : https://news.ycombinator.com/item?id=10392888
+- 2015 was a breakthrough year : http://www.bloomberg.com/news/articles/2015-12-08/why-2015-was-a-breakthrough-year-in-artificial-intelligence
 
 ### neural networks
 - deep dream : https://medium.com/backchannel/inside-deep-dreams-how-google-made-its-computers-go-crazy-83b9d24e66df#.6zrc7jk67 - for beginners : http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/ : hn : https://news.ycombinator.com/item?id=10232595                                                     
