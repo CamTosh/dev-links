@@ -28,6 +28,7 @@
 - an ios dev on rn : https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0         
 
 ### posts
+- Six weeks in and I want to smooch react native on its big old forehead : https://m.proxima.io/six-weeks-in-and-i-want-to-smooch-react-native-on-its-big-old-forehead-895f8fe148f5#.l5vm1uh87
 - an ios engineer : https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.ntaxovmud
 
 ### routing

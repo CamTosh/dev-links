@@ -7,6 +7,7 @@
 - history : blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
 
 ### best practices
+- state of the art 2016 : https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.nd1z41ha1 : hn : https://news.ycombinator.com/item?id=11260133
 - leveling up your js : developer.telerik.com/featured/leveling-up-your-javascript/
 
 ### books

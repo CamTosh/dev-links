@@ -32,6 +32,7 @@
 - in the browser is sweet : http://ku1ik.com/2015/10/12/sweet-core-async.html
 
 ### d3
+- strokes : https://github.com/dribnet/strokes
 - Practical Time Series Visualization using D3 + OM : http://blog.getliquidlandscape.com/2015/01/08/practical-time-series-visualization-using-d3-om/
 - d3 Methods as Data in ClojureScript : https://lambdahands.github.io/clojure/vizualization/clojurescript/2014/08/10/d3-methods-as-data.html
 
@@ -130,11 +131,18 @@
 - bruce hauman (figwheel) : http://rigsomelight.com/
 
 ### posts
+- the full stack meteor : https://forums.meteor.com/t/clojurescript-the-full-stack-meteor-of-2016/15694
 - Ten Reasons to Use : https://adambard.com/blog/ten-reasons-to-use-clojure/
 - React Four Ways : How to use React in Cljs and Why : http://blog.peeja.com/blog/2014/10/01/react-four-ways-how-to-use-react-in-clojurescript/
 - Quick Start : https://github.com/clojure/clojurescript/wiki/Quick-Start
 - Learning Cljs : https://blog.redradix.com/learning-clojurescript/
 - Why I Choose Cljs : http://spin.atomicobject.com/2015/11/15/why-i-choose-clojurescript/?utm_source=dlvr.it&utm_medium=twitter
+
+### react wrappers
+- rum : https://github.com/tonsky/rum
+
+### react-native
+- rn : http://cljsrn.org/
 
 ### reference apps
 - ascii cinema : https://github.com/asciinema/asciinema-player : https://asciinema.org/

@@ -5,3 +5,6 @@
 
 ### docs
 - ramda : http://ramdajs.com/docs
+
+### posts
+- why : http://fr.umio.us/why-ramda/

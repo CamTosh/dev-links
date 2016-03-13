@@ -112,6 +112,7 @@
 - async routes : https://www.xplatform.rocks/2016/02/09/angular2-quicky-async-routes/
 
 ### rxjs
+- egghead : https://egghead.io/series/step-by-step-async-javascript-with-rxjs
 - throwing errors : http://www.bennadel.com/blog/3028-throwing-errors-in-the-future-using-rxjs-in-angular-2-beta-6.htm
 
 ### seeds

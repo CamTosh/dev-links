@@ -35,7 +35,7 @@
 ### cors
 - angular and cors : http://draptik.github.io/blog/2013/08/19/angularjs-and-cors/
 - fiddle : http://jsfiddle.net/ricardohbin/e3yet/
-- kk : https://gist.github.com/kkurni/4618210
+- : https://gist.github.com/kkurni/4618210
 - with resource : http://stackoverflow.com/questions/16554270/how-to-configure-angular-resource-ngresource-to-pull-data-from-another-domain
 
 ### dependency injection

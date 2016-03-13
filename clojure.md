@@ -70,6 +70,7 @@ Library Mismatch Thread : https://www.reddit.com/r/Clojure/comments/40i2ku/the_j
 - luminous : http://www.luminusweb.net/ : https://github.com/luminus-framework/luminus
 
 ### luminus
+- docs : http://www.luminusweb.net/docs
 - home : http://www.luminusweb.net/
 - closp : https://github.com/sveri/closp/blob/master/README.md
 

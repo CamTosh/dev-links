@@ -51,13 +51,11 @@
 ### composition
 - Mixins Are Dead. Long Live Composition : https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
 
-### css
+### css modules
+- Using React and CSS Modules - Crater Conf : https://www.youtube.com/watch?index=2&list=PLtujUkEY1JlqE6KsIbQeShY3gLEylKnrr&v=w1GCB5D2EP8
 - jss : https://medium.com/@oleg008/the-important-parts-131dda7f6f6f#.4kip7npzp : https://github.com/jsstyles/jss
-- radium thread : https://www.reddit.com/r/reactjs/comments/40fbs7/why_do_you_not_use_radium/
-- radium : https://github.com/FormidableLabs/radium/tree/master/docs/faq :
 - transitions (12/15) : https://www.reddit.com/r/reactjs/comments/413929/whats_the_established_pattern_for_css/
 - css modules webpack demo : https://css-modules.github.io/webpack-demo/
-- radium : http://projects.formidablelabs.com/radium/   
 - css modules with react : http://olegakbarov.github.io/react-cssmodules-demo/
 
 ### data fetching
@@ -149,6 +147,9 @@
 - dan list : https://medium.com/@dan_abramov/my-react-list-862227952a8c
 
 ### radium
+- radium thread : https://www.reddit.com/r/reactjs/comments/40fbs7/why_do_you_not_use_radium/
+- radium : https://github.com/FormidableLabs/radium/tree/master/docs/faq :
+- radium : http://projects.formidablelabs.com/radium/   
 - making layouts (reddit) : https://www.reddit.com/r/reactjs/comments/3n7qxf/question_on_making_layouts_with_radium_inline/
 
 ### react-canvas

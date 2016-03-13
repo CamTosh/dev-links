@@ -42,6 +42,13 @@
 - trini : http://blog.dwaynecrooks.com/post/110903139442/why-do-we-need-to-install-gulp-globally-and
 - s.o. : http://stackoverflow.com/questions/22115400/why-do-we-need-to-install-gulp-globally-and-locally
 
+### nodal
+- gitter : https://gitter.im/keithwhor/nodal/
+- home : http://www.nodaljs.com/
+- repo : https://github.com/keithwhor/nodal
+- graphql : http://graphql.nodaljs.com/
+- initial post : https://medium.com/@keithwhor/hello-nodal-why-we-re-building-node-js-servers-for-everybody-dce14b27a233#.z1vgbph3v
+
 ### repl
 - tonic : https://tonicdev.com/
 
