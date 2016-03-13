@@ -1,3 +1,3 @@
 # dev-resources
 
-link/command library
+Library of dev related links and commands
