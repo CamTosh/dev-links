@@ -1,11 +1,9 @@
 # Docker
 
 ## Resources
----
 - [Docker Ecosystem Map]( https://www.mindmeister.com/389671722/docker-ecosystem)
 
 ## Commands
----
 ### $ docker-machine
 Create Linux VM
 ```
@@ -68,7 +66,6 @@ $ docker tag <image-id> <hub-username>/<image-name>:latest
 ```
 
 ### Notes
----
 - Build = the build parameters
 - Context = Either a path to a directory containing a Dockerfile, or a url to a git repository.
 - Dockerfile = Compose will use an alternate file to build with. A build path must also be specified.
