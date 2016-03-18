@@ -23,6 +23,9 @@
 - progress bar value : http://jsfiddle.net/bozdoz/fSLdG/2/
 - vertically aligning multiple blocks inline block : http://codepen.io/edge0703/pen/iHJuA?editors=110
 
+### CSS Modules
+- [CSS Modules](http://glenmaddern.com/articles/css-modules)
+
 ### draft
 - w3c : https://drafts.csswg.org/
 
@@ -46,6 +49,10 @@
 
 ### native variables
 - why i'm excited : http://philipwalton.com/articles/why-im-excited-about-native-css-variables/
+
+### performance
+- [Boost Your CSS Animation Performance with the Repaintless.css Library](http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/)
+- [Why Moving Elements With Translate() Is Better Than Pos:abs Top/left](http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
 
 ### rem
 - using rem : www.sitepoint.com/understanding-and-using-rem-units-in-css/

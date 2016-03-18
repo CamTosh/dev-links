@@ -15,6 +15,9 @@
 - Require Authentication For Certain Routes With UI-Router In AngularJS : http://solidfoundationwebdev.com/blog/posts/require-authentication-for-certain-routes-with-ui-router-in-angularjs
 - angular ui-router login authentication : http://stackoverflow.com/questions/22537311/angular-ui-router-login-authentication
 
+### auth0
+- [module undefined issue related to bower](https://github.com/auth0/lock/issues/111)
+
 ### best practices
 - anatomy of a large angular app : https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994
 - best practice recommendations for angular app structure : https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub

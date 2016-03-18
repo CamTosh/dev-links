@@ -9,6 +9,9 @@
 ### boilerplate
 - formidable : https://github.com/FormidableLabs/formidable-react-native-app-boilerplate
 
+### Charts
+- [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts)
+
 ### css
 - react-native-css : https://github.com/sabeurthabti/react-native-css
 

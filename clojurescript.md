@@ -11,6 +11,7 @@
 ### browser-repl
 - planck : https://github.com/mfikes/planck
 - jsbin-cljs : https://github.com/roman01la/jsbin-cljs : post : https://blog.redradix.com/learning-clojurescript/
+  : http://jsbin.com/yugupovohi/edit?html,js,console,output
 - interactive cljs/reagent tuts : https://jaredforsyth.com/tutorial-cljs/#cljs
 - Evaluating Cljs in the Browser : http://yogthos.net/posts/2015-11-12-ClojureScript-Eval.html
 - reepl : https://jaredforsyth.com/reepl/ : https://github.com/jaredly/reepl
@@ -62,6 +63,9 @@
 ### hoplon
 - css layout discussion : http://hoplon.discoursehosting.net/t/lets-talk-about-layout/223
 
+### Isomorphic
+- "I use a boot task to run clj-webdriver with phantomjs and have it browse each route of the site and save it to a static HTML.  Each page includes the app state for that page in a `<script id="state" type="application/edn">...</script>` tag which is loaded by the app.js before starting the reconciler.  This enables us to pregenerate all of our pages ahead of time and they load fast with all of the React tags long before the app.js loads and Om runs." - slack
+
 ### figwheel
 - lein-figwheel : https://github.com/bhauman/lein-figwheel
 - boot-figwheel : https://github.com/aJchemist/boot-figwheel
@@ -95,6 +99,9 @@
 - cljsjs : http://cljsjs.github.io/
 - yolm react cljs approach : http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html
 - gsoc : http://mneise.github.io/
+
+### jwt
+- [Token Auth Reddit Thread](https://www.reddit.com/r/Clojurescript/comments/43prmr/how_to_do_token_auth_jwt/)
 
 ### laziness
 - Lazy Sequences in Clojure : http://theatticlight.net/posts/Lazy-Sequences-in-Clojure/
@@ -256,3 +263,74 @@
 ## why / why not
 - why i chose clojurescript : http://spin.atomicobject.com/2015/11/15/why-i-choose-clojurescript/?utm_source=dlvr.it&utm_medium=twitter
 - blues : http://blog.venanti.us/clojurescript-blues/ : hn : https://news.ycombinator.com/item?id=10186487
+
+## SORT
+  - [cljs Unraveled](http://funcool.github.io/clojurescript-unraveled/)
+  - [Mary intro](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+  - [Garden](https://github.com/noprompt/garden)
+  - [soda-ash (Semantic UI Bindings)](https://github.com/gadfly361/soda-ash)
+  - [Modern cljs](https://github.com/magomimmo/modern-cljs/blob/master/doc/second-edition/tutorial-01.md)
+  - [Clojurescript Syntax In 15 Minutes](https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes)
+  - [Quick Start (Official)](https://github.com/clojure/clojurescript/wiki/Quick-Start)
+  - [Step 1](http://timothypratley.blogspot.com/2015/11/curious-about-clojurescript-but-not.html)
+  - [monet (cljs canvas)](https://github.com/rm-hull/monet)
+  - [Reagent Rocks](http://www.mattgreer.org/articles/reagent-rocks/)
+  - [keechma (reagent)](http://keechma.com/)
+  - [derive](https://github.com/VitalLabs/derive)
+  - [nativestore](https://github.com/VitalLabs/nativestore)
+  - [om.next datomic Integration](https://github.com/omcljs/om/wiki/DataScript-Integration-Tutorial)
+  - [boot-react-native](https://github.com/mjmeintjes/boot-react-native)
+  - [ktoa](https://github.com/artemyarulin/ktoa)
+  - [om-next-cross-platform-template](https://github.com/artemyarulin/om-next-cross-platform-template)
+  - ## Clj_s : Luminus (Re-frame / Reagent / RethinkDB)
+    - Social
+      - clojure slack
+      - [meatier gitter](https://gitter.im/mattkrick/meatier)
+    - Languages
+      - Clojure
+      - JS
+      - Elm
+        - [vs cljs](https://www.reddit.com/r/elm/comments/3zkkrw/clojurescript_or_elm)
+        - [starting with elm](http://www.romanzolotarev.com/elm/)
+      - Swift
+    - Challenges
+      - [codewars](http://www.codewars.com/)
+    - CS
+      - [Intro to frp you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+      - [rx marbles](http://rxmarbles.com/)
+    - Architectures
+      - [Andre Staltz Unidirectional Overview](http://staltz.com/unidirectional-user-interface-architectures.html)
+    - Learn
+      - [Luminus Docs](http://www.luminusweb.net/docs)
+      - [Clojure Web Development Essentials]()
+    - Libs
+      - [Re-Frame](https://github.com/Day8/re-frame)
+        - [frp re-frame reddit discussion](https://www.reddit.com/r/javascript/comments/3zr6i0/conversation_whats_the_core_differences_between)
+      - [Zelkova (elm style frp)](https://github.com/jamesmacaulay/zelkova)
+    - Test
+      - [midge](https://github.com/marick/Midje)
+    - DB
+      - Rethinkdb
+        - [horizon](https://github.com/rethinkdb/rethinkdb/issues/3711)
+        - [rethinkdb-websocket-client](https://github.com/mikemintz/rethinkdb-websocket-client)
+        - [rethinkdb-websocket-server](https://github.com/mikemintz/rethinkdb-websocket-server)
+        - [clj-rethinkdb](https://github.com/apa512/clj-rethinkdb/)
+        - [query vs sub](https://github.com/mattkrick/meatier/issues/94#issuecomment-189370738)
+    - Stack
+      - Luminus
+    - OSX/IOS
+      - [audiokit]
+      - [cljs_react-native]
+    - OS
+      - [Brave Clojure OS](http://open-source.braveclojure.com/?tags=)
+
+## Clojure
+  - [Luminus Docs](http://www.luminusweb.net/docs)
+  - [Luminus Home](http://www.luminusweb.net/)
+  - [Aphyr](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
+  - [api docs](https://clojure.github.io/clojure/clojure.core-api.html#clojure.core/count)
+  - [Grimoire](http://conj.io/)
+  - [Rosetta Code](http://rosettacode.org/wiki/Category:Clojure)
+  - [CrossClj](https://crossclj.info/)
+  - #### React-Native
+    - [react-native-web](https://github.com/necolas/react-native-web)

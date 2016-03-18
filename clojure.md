@@ -1,8 +1,8 @@
 ## clojure
 
 ### algorithms
-persistent vectors : http://hypirion.com/musings/understanding-persistent-vector-pt-1
-optimizing hash-array mapped tries : http://blog.acolyer.org/2015/11/27/hamt/
+- [persistent vectors](http://hypirion.com/musings/understanding-persistent-vector-pt-1)
+- [optimizing hash-array mapped tries](http://blog.acolyer.org/2015/11/27/hamt/)
 
 ### API References
 - Grimoire : http://conj.io/
@@ -69,10 +69,19 @@ Library Mismatch Thread : https://www.reddit.com/r/Clojure/comments/40i2ku/the_j
 ### frameworks
 - luminous : http://www.luminusweb.net/ : https://github.com/luminus-framework/luminus
 
+### leiningen
+- commands
+  - show tree of dependencies
+  ```
+  $ lein deps :tree
+  ```
+- Best Practices
+  - "it's definitely better to use `:exclusions` than to rely on the dependencies order"
+
 ### luminus
-- docs : http://www.luminusweb.net/docs
-- home : http://www.luminusweb.net/
-- closp : https://github.com/sveri/closp/blob/master/README.md
+- [Docs](http://www.luminusweb.net/docs)
+- [Home](http://www.luminusweb.net/)
+- [closp](https://github.com/sveri/closp/blob/master/README.md)
 
 ### posts
 - which langs are functional : http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html

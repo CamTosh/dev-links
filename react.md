@@ -10,6 +10,9 @@
 ### animations
 - velocity react lib : https://fabric.io/blog/introducing-the-velocityreact-library
 
+### Auth
+  - [auth0 React](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
+
 ### best practices
 - observable containers : https://medium.com/@milankinen/containers-are-dead-long-live-observable-combinators-2cb0c1f06c96#.g0rumaqmn
 - 9 things (good approach overview) (1/16): https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
@@ -50,6 +53,9 @@
 
 ### composition
 - Mixins Are Dead. Long Live Composition : https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
+
+### CSS
+- [How do you handle? (Reddit thread)](https://www.reddit.com/r/reactjs/comments/4av3l1/how_do_you_handle_css_in_react_apps/)
 
 ### css modules
 - Using React and CSS Modules - Crater Conf : https://www.youtube.com/watch?index=2&list=PLtujUkEY1JlqE6KsIbQeShY3gLEylKnrr&v=w1GCB5D2EP8
@@ -146,6 +152,9 @@
 ### people
 - dan list : https://medium.com/@dan_abramov/my-react-list-862227952a8c
 
+### perf
+- [Loading dependencies asynchronously in React components](Loading dependencies asynchronously in React components)
+
 ### radium
 - radium thread : https://www.reddit.com/r/reactjs/comments/40fbs7/why_do_you_not_use_radium/
 - radium : https://github.com/FormidableLabs/radium/tree/master/docs/faq :
@@ -167,6 +176,9 @@
 - 0.14 : http://facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html                                         
 - cheatsheet : http://jamesknelson.com/react-cheatsheet.pdf                                                            
 - reddit : https://www.reddit.com/r/reactjs/                                                                                                                 
+### REST
+  - [redux-rest](https://www.npmjs.com/package/redux-rest)
+
 ### routing
 - react router a comprehensive intro : http://geek.bluemangointeractive.com/react-router-an-introduction/
 - react and pushstate doing it wrong : http://jamesknelson.com/push-state-vs-hash-based-routing-with-react-js/

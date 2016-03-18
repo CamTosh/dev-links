@@ -23,6 +23,9 @@
 ### keymapping
 - reveal file in sidebar : https://discuss.atom.io/t/reveal-file-in-sidebar/2365/4
 
+### md
+- [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ### nuclide
 - home : https://code.facebook.com/posts/397706937084869/
 

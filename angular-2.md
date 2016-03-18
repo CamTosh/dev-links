@@ -59,6 +59,9 @@
 - making a request : https://www.youtube.com/watch?v=h0Yclx7A_Y8
 - using : https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/
 
+### ionic
+  - [Udemy course](https://www.udemy.com/introducing-ionic-2/)
+
 ### info
 - ben nadel js demos : https://github.com/bennadel/JavaScript-Demos
 - awesome angular : https://github.com/AngularClass/awesome-angular2#experts-on-twitter
@@ -92,6 +95,9 @@
 
 ### pipes
 - auth0 : https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/
+
+### Production
+- [How to Run in Production](https://jhades-blog.herokuapp.com/how-to-run-angular-2-in-production-today/)
 
 ### frp / redux
 - immutability and encapsulation : http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation
@@ -137,3 +143,9 @@
 
 ### zone
 - repo : https://github.com/angular/zone.js
+
+
+### SORT
+  - [Udemy course (I OWN)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/#/)
+  - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
+  - [Problem with Promises]( pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
