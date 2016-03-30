@@ -15,8 +15,9 @@
 ### css
 - react-native-css : https://github.com/sabeurthabti/react-native-css
 
-### pocs
-- border progress bar : http://josephhsu.com/post/129849031387/react-native-flex-border-progress
+### gl (web and open)
+- [gl-react](https://github.com/ProjectSeptemberInc/gl-react/)
+- [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native)
 
 ### links
 - seed : https://github.com/OssamaZ/react-native-flux-boilerplate                                                  
@@ -30,9 +31,18 @@
 - rn for web : https://github.com/KodersLab/react-native-for-web                                                   
 - an ios dev on rn : https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0         
 
+### osx
+- [react-native-desktop](https://github.com/ptmt/react-native-desktop)
+
+### pocs
+- border progress bar : http://josephhsu.com/post/129849031387/react-native-flex-border-progress
+
 ### posts
 - Six weeks in and I want to smooch react native on its big old forehead : https://m.proxima.io/six-weeks-in-and-i-want-to-smooch-react-native-on-its-big-old-forehead-895f8fe148f5#.l5vm1uh87
 - an ios engineer : https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.ntaxovmud
+
+### resources
+- [React Native](http://www.reactnative.com/)
 
 ### routing
 - rn routing : https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603

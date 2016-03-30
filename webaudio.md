@@ -37,6 +37,9 @@
 ### clojurescript
 - klangmeister : http://ctford.github.io/klangmeister/
 
+### cycle
+- [cycle-audio-graph](https://github.com/benji6/cycle-audio-graph)
+
 ### d3
 - exploring webaudio with d3 : http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html
 
@@ -46,11 +49,14 @@
 ### devtools
 - chrome devtools extension : https://github.com/spite/WebAudioExtension              
 
+### ebooks
+- [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+
+### effects
+- [tuna](https://github.com/Theodeus/tuna)
+
 ### glitches
 - glitches : http://funktion.fm/#post/audio-glitches-with-a-linux-termina
-
-### waveform editors
-- zampling : https://github.com/gre/zampling/blob/master/src/utils/AudioChunker.js
 
 ### environments
 - wavepot : http://wavepot.com/
@@ -63,6 +69,7 @@
 - webaudio gotchas : https://github.com/Jam3/web-audio-player#webaudio-gotchas
 
 ### libs
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph)
 - spiral (uses polymer) : https://github.com/hoch/spiral
 - dilla.js : https://www.npmjs.com/package/dilla
 - qwak : https://github.com/adamrenklint/qwak
@@ -86,7 +93,11 @@
 ### pd
 - heavy (pd compilation) : https://enzienaudio.com/docs/js.html
 
+### timing
+- [A Tale of No Clocks](http://joesul.li/van/tale-of-no-clocks/)
+
 ### tuts
+- [Webaudio Basics](https://github.com/kylestetz/Web-Audio-Basics)
 - fun immersive webaudio : http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/
 - using expressions in dilla : http://adamrenklint.com/using-expressions-in-dilla/
 - lazy kicks eager snares : http://adamrenklint.com/lazy-kicks-eager-snares/
@@ -109,6 +120,7 @@
 - applying react to webaudio : http://interstellarechidna.com/2014/11/react-beyond-the-dom-experiments-in-applying-react-to-pixi-js-three-js-and-web-audio/ : https://github.com/Izzimach/react-webaudio  
 
 ### resources
+- [Awesome](https://github.com/notthetup/awesome-webaudio)
 - slides valhalla : https://valhalladsp.wordpress.com/2015/06/19/slides-from-my-aes-reverb-presentation/  
 
 ### synthesis
@@ -120,6 +132,9 @@
 ### tracks w/ code
 - dilla boombap demo : https://github.com/adamrenklint/dilla-boombap-demo
 
+### waveform editors
+- zampling : https://github.com/gre/zampling/blob/master/src/utils/AudioChunker.js
+
 ### webgl
 - wavegl : https://github.com/gre/wavegl
 - vis : http://srchea.com/experimenting-with-web-audio-api-three-js-webgl
@@ -128,6 +143,9 @@
 - creating virtual midi ports osx for webmidi : http://skratchdot.com/2016/01/creating-virtual-midi-ports-on-osx/
 
 ### works
+- [elemental](https://github.com/benji6/elemental)
+- [MPC React/Webpack](https://www.reddit.com/r/javascript/comments/41vvav/i_built_an_mpc_web_app_to_learn_es6_webaudio/)
+- [106](https://github.com/stevengoldberg/juno106)
 - arpeggiator : http://arpeggiator.desandro.com/
 - glowsynth : http://outputchannel.com/glowsynth/
 - virtual oscilloscope : https://academo.org/demos/virtual-oscilloscope/

@@ -10,9 +10,9 @@ Every JavaScript Developer Should Know : https://medium.com/javascript-scene/10-
 - understanding es6 : https://leanpub.com/understandinges6/read#leanpub-auto-global-block-bindings
 
 ### features
-- iterators and iterables : http://www.2ality.com/2015/02/es6-iteration.html                                                                                                
+- [Ponyfoo es6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
+- iterators and iterables : http://www.2ality.com/2015/02/es6-iteration.html                   
 - es6 generators : alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html                                                                       
-- ponyfoo series : ponyfoo.com/articles/es6-array-extensions-in-depth                                                                                                       
 - map and set in react : https://www.reddit.com/r/reactjs/comments/3k81ar/es6_map_and_set_inside_jsx_possible/                                                              
 - cheatsheet vid : https://www.youtube.com/watch?v=AfWYO8t7ed4                                                                                                              
 - ashley vid : https://www.youtube.com/watch?v=DN4yLZB1vUQ                                                                                                                  

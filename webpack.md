@@ -24,6 +24,9 @@
 - api : https://github.com/webpack/docs/wiki/api-in-modules
 - instagram docs : https://github.com/petehunt/webpack-howto
 
+### loaders
+- json loader : https://github.com/webpack/json-loader
+
 ### plugins
 - npm-install : https://github.com/ericclemmons/npm-install-webpack-plugin
 

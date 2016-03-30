@@ -1,5 +1,8 @@
 # Purescript
 
+### Browser
+- [galaxy](http://sloosch.de/ps/gravity/)
+
 [The Design of Purescript halogen](http://begriffs.com/posts/2015-07-10-design-of-purescript-halogen.html)
 
 [Purescript hn discussion](https://news.ycombinator.com/item?id=8351981)

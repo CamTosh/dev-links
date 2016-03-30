@@ -1,12 +1,13 @@
 ## immutable
 
-### docs 
+### docs
 - api : https://facebook.github.io/immutable-js/docs/#/
 
 ### libs
 - seamless : https://github.com/rtfeldman/seamless-immutable
 
 ### tuts
+- [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
 - immutable data structures and js : http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript
 
 ### videon

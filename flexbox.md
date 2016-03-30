@@ -31,6 +31,7 @@
 - simple react with flexbox : http://codepen.io/luisrudge/pen/WQOjGB?editors=011
 
 ### resources
+- [CSS Flexbox Is Entirely Logical (Almost)](https://paulrobertlloyd.com/2016/03/logical_flexbox)
 - understanding flexbox : http://marketblog.envato.com/learn-something-new/css3-flexbox/
 - building with flexbox (creates a grid) : http://callmenick.com/post/flexbox-examples
 - css tricks guide : https://css-tricks.com/snippets/css/a-guide-to-flexbox/

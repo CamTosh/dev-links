@@ -6,11 +6,22 @@
 ### animation
 - Redux/Flux animation confusion (thread) : https://www.reddit.com/r/reactjs/comments/3vw7xq/reduxflux_animation_confusion/
 
+### api integration / asynchrony
+- [Docs: Example of component that asks for data asynchonously](https://github.com/reactjs/redux/issues/202)
+- [Make api calls from dumb components with Redux](http://stackoverflow.com/questions/33430297/make-api-calls-from-dumb-components-with-redux)
+- [Trying to put API calls in the correct place](https://github.com/reactjs/redux/issues/291)
+- [redux-saga]  
+
 ### async
+- [A Guide For Building A React Redux CRUD App](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.w9i4yqmv4)
+- [Redux - Calling web service asynchronously](http://www.zohaib.me/redux-call-service-async/)
+- [rise of async js](https://www.youtube.com/watch?v=QtgR94Q2pt4)
 - react-redux-axios spinner : https://github.com/oviava/react-redux-axios-example
 - redux-utils async : https://github.com/penguinsoccer/redux-utils-example
 
 ### best practices
+- [What I learned from Redux - the "Redux" Pattern](http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/)
+- [Redux Best Practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.hyctsd9eo)
 - big projects : https://www.reddit.com/r/reactjs/comments/40weou/big_projects_witch_reactredux/
 - best practices : https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e
 - storing state : https://www.reddit.com/r/reactjs/comments/3nz2u4/help_storing_ui_state_in_redux/
@@ -22,15 +33,18 @@
 - devtool repo : https://github.com/gaearon/redux-devtools
 
 ### docs
-- : http://redux.js.org/
+- : http://redux.js.org/docs
 
 ### example apps
 - portfolio app : http://react.rocks/example/portfolio-redux-app
 
 ### forms
-- redux-form : https://github.com/erikras/redux-form#synchronous-validation
+- redux-form : http://redux-form.com/4.2.0/#/getting-started?_k=x764sf : https://github.com/erikras/redux-form#synchronous-validation
 - react-validation-mixin : https://github.com/jurassix/react-validation-mixin
 - form-generator : https://gist.github.com/penguinsoccer/903cdd4cfe840c842ddc
+
+### how to
+- [Handling Transactional Emails In React Redux Apps](https://medium.com/@rajaraodv/handling-transactional-emails-in-react-redux-apps-8b1134748f76#.2zkwqxmv3)
 
 ### informational
 - why local component state is a trap : https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/
@@ -43,7 +57,11 @@
 - redux-await : https://github.com/kolodny/redux-await
 
 ### middleware
-- redux-saga : https://github.com/yelouafi/redux-saga
+- [redux-operations](https://medium.com/@matt.krick/introducing-redux-operations-332ab56e468b#.1u05qoz8g)
+- [redux-sagas](https://github.com/yelouafi/redux-saga)
+- [redux-form](https://github.com/erikras/redux-form)
+- [tcomb-validation](https://github.com/gcanti/tcomb-validation)
+- [react-d3](https://github.com/esbullington/react-d3)
 - react-stateless : https://github.com/troch/react-stateless
 
 ### reddit
@@ -69,7 +87,7 @@
 ### seeds
 - unicorn starter-kit : https://github.com/unicorn-standard/starter-kit
 - react-redux-jwt-auth-example (auth) : https://github.com/joshgeller/react-redux-jwt-auth-example
-- react-redux-starter-kit : https://github.com/davezuko/react-redux-starter-kit  : https://www.reddit.com/r/reactjs/comments/3vevqp/help_documentation_for_reactreduxstarterkit/
+- [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) : https://github.com/davezuko/react-redux-starter-kit  : https://www.reddit.com/r/reactjs/comments/3vevqp/help_documentation_for_reactreduxstarterkit/
 : https://www.reddit.com/r/reactjs/comments/3v52vz/looking_for_a_solid_starter_with_redux_routing/
 - react redux easy boiler : https://github.com/anorudes/redux-easy-boilerplate
 - redux boiler with react 0.14 and stateless function components : https://www.reddit.com/r/reactjs/comments/3o2uxc/redux_boilerplate_with_react_014_and_stateless/
@@ -80,6 +98,7 @@
 - modern wp react starter : http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
 
 ### sagas
+- [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas/)
 - from action creators to sagas : http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
 - redux-starter-kit :https://github.com/davezuko/react-redux-starter-kit    
 
@@ -107,3 +126,15 @@
 ### videos
 - egghead : https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?series=getting-started-with-redux
 - functional front end coding : http://begriffs.com/posts/2015-11-30-functional-front-end-coding.html
+
+# SORT
+  - Redux
+    - [Redux Docs](http://redux.js.org/)
+    - [redux](https://github.com/reactjs/redux)
+    - [redux-cli](https://github.com/SpencerCDixon/redux-cli)
+    - [Redux Egghead](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?series=getting-started-with-redux)
+    - [End of Redux?](https://gist.github.com/idibidiart/49a095b6bc528638f34f)
+    - [Docs: Example of component that asks for data asynchonously](https://github.com/reactjs/redux/issues/202)
+    - [Make api calls from dumb components with Redux](http://stackoverflow.com/questions/33430297/make-api-calls-from-dumb-components-with-redux)
+    - [Trying to put API calls in the correct place](https://github.com/reactjs/redux/issues/291)
+    - [redux-saga]

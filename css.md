@@ -45,12 +45,15 @@
 - grid and the box : https://www.rachelandrew.co.uk/archives/2015/09/02/css-grid-and-the-box-alignment-module
 
 ### libs
+- [pure (grid and widgets)](http://purecss.io/)
+- [lost (postcss fractional grid system)](https://github.com/peterramsing/lost)
 - css-layout (js implementation of flexbox) : https://github.com/facebook/css-layout
 
 ### native variables
 - why i'm excited : http://philipwalton.com/articles/why-im-excited-about-native-css-variables/
 
 ### performance
+- [will-change](snook.ca/archives/html_and_css/will-change)
 - [Boost Your CSS Animation Performance with the Repaintless.css Library](http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/)
 - [Why Moving Elements With Translate() Is Better Than Pos:abs Top/left](http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
 
@@ -62,14 +65,14 @@
 - workflow : jonyablonski.com/2015/responsive-image-workflow/
 - using now 2015 : alistapart.com/article/using-responsive-images-now
 
+### specificity
+- [:not and specificity](bitsofco.de/on-not-and-specificity/)
+
 ### styleguides
 - kss-node : http://kss-node.github.io/kss-node/
 - huge stylguide (automated lib) : http://hugeinc.github.io/styleguide/index.html
 - sketch style inventory : https://github.com/getflourish/Sketch-Style-Inventory
 - styleguide-generators
-
-### typography
-- responsive web typography : http://www.zell-weekeat.com/responsive-typography/
 
 ### utility approach
 - expressive-css : http://johnpolacek.github.io/expressive-css/styleguide/

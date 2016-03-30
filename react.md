@@ -10,10 +10,16 @@
 ### animations
 - velocity react lib : https://fabric.io/blog/introducing-the-velocityreact-library
 
+### api
+- [ReactDOM.render and the Top Level React API](http://facebook.github.io/react/blog/2015/10/01/react-render-and-top-level-api.html)
+
 ### Auth
   - [auth0 React](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
 
 ### best practices
+- [gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
+- [Design Simpler React Components](https://medium.com/building-asana/designing-simpler-react-components-13a0061afd16#.dot22qqh4)
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.vpaxrt9e1)
 - observable containers : https://medium.com/@milankinen/containers-are-dead-long-live-observable-combinators-2cb0c1f06c96#.g0rumaqmn
 - 9 things (good approach overview) (1/16): https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 - 2016 : https://blog.risingstack.com/react-js-best-practices-for-2016
@@ -36,12 +42,15 @@
 - reactcheatsheet : http://reactcheatsheet.com/
 
 ### class
+- [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component/)
 - component vs createClass : http://reactjsnews.com/composing-components/
 
 ### cms
 - relax : https://github.com/relax/relax
 
 ### components
+- [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.sviamqqte)
+- [Stateless Components](https://toddmotto.com/stateless-react-components/)
 - data-grid : https://www.ag-grid.com/best-react-data-grid/index.php
 - mt : https://github.com/pmdesgn/mt-react-components
 - input-moment : https://github.com/wangzuo/input-moment
@@ -87,13 +96,18 @@
 ### devtools
 - new devtools : http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
 
+### docs
+- [React Docs](http://facebook.github.io/react/docs)
+
 ### es6
+- [ES2015 (ES6) Features Commonly Used with Functional Style React](http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react)
+- [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component/)
+- [React and ES6 - Part 1, Introduction]( http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
+- [ES2015 (ES6) Features Commonly Used with Functional Style React](http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react)   
 - migrating to es6 with babel and eslint : https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
 - es6 react game-like approach : https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643                                       
-- react on es6 : http://babeljs.io/blog/2015/06/07/react-on-es6-plus/                                                                                                       
 - reddit react discussion : https://www.reddit.com/r/reactjs/comments/3mc5op/do_you_guys_use_es6/
-- react and es6 : http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html                                                                                                 
-- es6 react : http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react                                                                             
+
 
 ### example aggregators
 - react rocks : http://react.rocks/
@@ -115,6 +129,7 @@
 
 ### functional
 - understanding the functional revolution : http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/                     
+
 ### frp
 - Elegant Functional Architecture for React : https://medium.com/@gilbox/an-elegant-functional-architecture-for-react-faa3fb42b75b#.1vcujd4wk
 - Classical and Functional React Get Married and Bind the Knot in a Decorated Wedding : https://medium.com/@gilbox/classical-and-functional-react-get-married-and-have-a-baby-7acf5d0cf00e#.mmtipjn8l
@@ -128,6 +143,15 @@
 
 ### hot reloading
 - dan post : http://gaearon.github.io/react-hot-loader/2014/07/23/integrating-jsx-live-reload-into-your-react-workflow/ : hn : https://news.ycombinator.com/item?id=8982620
+
+### internationalization
+- format.js : http://formatjs.io/react/
+- christian : "
+  Regarding internationalization, which I understand we want to do: there are three basic levels of support you can provide:
+  1. Basic text translation
+  2. Number/time/date format localization (this is the key additional one to not forget) (edited)
+  3. language-specific pluralization
+  Doing programmatic pluralization is a lot of work, and requires dedicated libraries and practices. So, I’d suggest we stick to #1 and #2 for now, and just make sure we bake in the support for both from the outset."
 
 ### libs
 - petehunt/jxstyle : https://github.com/petehunt/jsxstyle
@@ -156,6 +180,7 @@
 - [Loading dependencies asynchronously in React components](Loading dependencies asynchronously in React components)
 
 ### radium
+- [home](http://stack.formidable.com/radium/)
 - radium thread : https://www.reddit.com/r/reactjs/comments/40fbs7/why_do_you_not_use_radium/
 - radium : https://github.com/FormidableLabs/radium/tree/master/docs/faq :
 - radium : http://projects.formidablelabs.com/radium/   
@@ -172,6 +197,7 @@
 - Manage user input from a parent in a child component : https://www.reddit.com/r/reactjs/comments/3n2ew9/manage_user_input_from_a_parent_in_a_child/
 
 ### resources
+- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
 - react-primer-draft : https://github.com/mikechau/react-primer-draft/blob/master/README.md
 - 0.14 : http://facebook.github.io/react/blog/2015/09/10/react-v0.14-rc1.html                                         
 - cheatsheet : http://jamesknelson.com/react-cheatsheet.pdf                                                            
@@ -179,15 +205,22 @@
 ### REST
   - [redux-rest](https://www.npmjs.com/package/redux-rest)
 
-### routing
-- react router a comprehensive intro : http://geek.bluemangointeractive.com/react-router-an-introduction/
+### react-router
+- [What practical programmer should know about React Router](http://adambac.com/what-practical-programmer-should-know-about-react-router/)
+- react router a comprehensive intro : http://geek.bluemangointeractive.com/react-router-an-introduction
 - react and pushstate doing it wrong : http://jamesknelson.com/push-state-vs-hash-based-routing-with-react-js/
+
+### rxjs
+- [Use RxJS with React](http://michalzalecki.com/use-rxjs-with-react/)
 
 ### sass
 - styling components in sass : http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
 ### seeds
-- react-redux-starter-kit : https://github.com/davezuko/react-redux-starter-kit
+- [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
+- [redux-cli](https://github.com/SpencerCDixon/redux-cli)
+- [este](https://github.com/este/este)
+- [meatier](https://github.com/mattkrick/meatier)
 - react boilerplate : https://github.com/mxstbr/react-boilerplate
 - react starter aggregator : http://andrewhfarmer.com/starter-project/
 
@@ -220,12 +253,17 @@
 - recompose, a microcomponentization toolkit : https://github.com/acdlite/recompose
 
 ### tuts
+- [Creating a tabs component with React](https://toddmotto.com/creating-a-tabs-component-with-react/)
+- [The React.js Way: Getting Started Tutorial](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+- [React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)-
+- [React Tut With Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
+- [yome widget](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.1hgqnzfun)
 - react bible : https://www.stanleycyang.com/tutorials/the-reactjs-bible
 - 2016 : https://blog.risingstack.com/react-js-best-practices-for-2016
 - function defs in js : https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 - top 5 react getting started tutorials : http://andrewhfarmer.com/getting-started-tutorials/
 - pete hunt how-to : https://github.com/petehunt/react-howto
-- smart and dumb components : https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.1hgqnzfun
 - test driven tut : http://spencerdixon.com/blog/test-driven-react-tutorial.html
 - stateless functions : https://gist.github.com/benhughes/7d28c15b7b03c9c5df83                                                                               
 - Setting up React for ES6 with Webpack and Babel : https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html                              
@@ -268,3 +306,11 @@
 
 ### web workers
 - using : http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
+
+
+## sort
+- Relay/GraphQL
+  - [Learn GraphQL](https://learngraphql.com/basics/introduction)
+  - [How Facebook's GraphQL Will Change Backend Development](https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/)
+  - [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
+  - [GraphQL/Relay as Change-Enabling Architecture](https://gist.github.com/idibidiart/49a095b6bc528638f34f)

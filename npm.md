@@ -45,6 +45,7 @@
 - do we need gulp : http://gon.to/2015/02/26/gulp-is-awesome-but-do-we-really-need-it/         
 
 ### semver
+- [npm semver calculator](http://semver.npmjs.com/)
 - home : http://semver.org/
 - nodesource primer : https://nodesource.com/blog/semver-a-primer/
 
