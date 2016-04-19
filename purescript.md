@@ -1,7 +1,13 @@
 # Purescript
 
+### Books
+- [Purescript by Example](https://leanpub.com/purescript/read)
+
 ### Browser
 - [galaxy](http://sloosch.de/ps/gravity/)
+
+### React
+- [PureScript + React + Electron](http://alexey.raga.name/posts/2015/09/28/purescript-react-electron/)
 
 [The Design of Purescript halogen](http://begriffs.com/posts/2015-07-10-design-of-purescript-halogen.html)
 

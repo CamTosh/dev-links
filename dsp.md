@@ -30,6 +30,7 @@
 - mathematics of the dft : https://ccrma.stanford.edu/~jos/st/                                                                                                     
 
 ### visualizing
+- [Discrete Fourier Transform Demo](http://madebyevan.com/dft/)
 - understanding fourier visualizations : http://bgrawi.com/Fourier-Visualizations/
 - visualizing fft : https://news.ycombinator.com/item?id=10270919        
 - circles sines : http://jackschaedler.github.io/circles-sines-signals/         

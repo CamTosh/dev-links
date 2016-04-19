@@ -4,6 +4,7 @@
 - compilers as assistants : http://elm-lang.org/blog/compilers-as-assistants : hn : https://news.ycombinator.com/item?id=10595131
 
 ### Sort
+  [Walkthrough: Introducing Elm to a js Webapp](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app)
   [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm)
   [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
   [Elm's strengths and limitations vs Purescript](https://groups.google.com/forum/#!msg/elm-discuss/oyrODCgYmQI/mdEiFgIqvbEJ)

@@ -1,5 +1,8 @@
 ## math
 
+### calculus
+- [Better Explained - Calculus](http://betterexplained.com/guides/calculus/)
+
 ### linear algebra
 - intro to game programming : http://codeofthedamned.com/index.php/introduction-to-the-math-of
 

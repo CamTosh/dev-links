@@ -29,6 +29,12 @@
 ### draft
 - w3c : https://drafts.csswg.org/
 
+### grid
+- [Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+### houdini
+- [smashing](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
+
 ### ids
 - in defense : http://www.zeldman.com/2012/11/21/in-defense-of-descendant-selectors-and-id-elements/
 
@@ -42,6 +48,9 @@
 - https://blog.colepeters.com/building-and-shipping-functional-css
 
 ### grid
+- [Making Sense of the New CSS Layout](https://rachelandrew.co.uk/archives/2016/03/25/making-sense-of-the-new-css-layout/)
+  - [Presentation](https://www.youtube.com/watch?v=MXEzJ-IncX0)
+  - [Code](https://rachelandrew.co.uk/presentations/modern-css-layout)
 - grid and the box : https://www.rachelandrew.co.uk/archives/2015/09/02/css-grid-and-the-box-alignment-module
 
 ### libs
@@ -64,6 +73,9 @@
 - generator : https://www.smashingmagazine.com/2016/01/responsive-image-breakpoints-generation/
 - workflow : jonyablonski.com/2015/responsive-image-workflow/
 - using now 2015 : alistapart.com/article/using-responsive-images-now
+
+### scalability
+- [Css and Scalability (DRY)](http://mrmrs.io/writing/2016/03/24/scalable-css/)
 
 ### specificity
 - [:not and specificity](bitsofco.de/on-not-and-specificity/)

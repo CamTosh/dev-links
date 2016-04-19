@@ -43,6 +43,9 @@
 ### d3
 - exploring webaudio with d3 : http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html
 
+### daws
+- [wad](https://github.com/rserota/wad)
+
 ### decoding
 - Using Web Audio API to decode and play an MP3 file (part 1) : http://nicdoescode.distinctive.com.au/2015/12/26/using-web-audio-api-to-decode-and-play-an-mp3-file-part-1/
 
@@ -115,6 +118,7 @@
 - webaudio basics : https://github.com/kylestetz/Web-Audio-Basics                                       
 - dynamic sound : http://www.sitepoint.com/dynamic-sound-with-the-web-audio-api/   
 - wave interfearance : http://academo.org/demos/wave-interference-beat-frequency/                          
+
 ### react
 - react 808 : http://codepen.io/pixelass/pen/adyLPR/?editors=001
 - applying react to webaudio : http://interstellarechidna.com/2014/11/react-beyond-the-dom-experiments-in-applying-react-to-pixi-js-three-js-and-web-audio/ : https://github.com/Izzimach/react-webaudio  
@@ -122,6 +126,10 @@
 ### resources
 - [Awesome](https://github.com/notthetup/awesome-webaudio)
 - slides valhalla : https://valhalladsp.wordpress.com/2015/06/19/slides-from-my-aes-reverb-presentation/  
+
+### spec/future
+- [Interview with Paul Adenot, Web Audio Spec Editor](https://webaudiotech.com/2016/02/17/interview-with-paul-adenot-web-audio-spec-editor/#more-238)
+- [Web Audio API vs. Native: Closing the Gap](http://medias.ircam.fr/x2af2f6)
 
 ### synthesis
 - synthesis examples : http://blog.chrislowis.co.uk/2015/06/26/a-brief-history-of-synthesis.html           
@@ -143,6 +151,11 @@
 - creating virtual midi ports osx for webmidi : http://skratchdot.com/2016/01/creating-virtual-midi-ports-on-osx/
 
 ### works
+- [Chrome Experiments](https://www.chromeexperiments.com/?q=webaudio)
+- [victor](https://github.com/nicroto/viktor)
+  - [hn](https://news.ycombinator.com/item?id=9640218)
+  - [reddit](https://www.reddit.com/r/javascript/comments/382p19/viktor_nv1_synthesizer/)
+  - [chrome experiments](https://www.chromeexperiments.com/experiment/viktor-nv-1-synthesizer)
 - [elemental](https://github.com/benji6/elemental)
 - [MPC React/Webpack](https://www.reddit.com/r/javascript/comments/41vvav/i_built_an_mpc_web_app_to_learn_es6_webaudio/)
 - [106](https://github.com/stevengoldberg/juno106)

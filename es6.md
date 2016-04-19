@@ -1,15 +1,22 @@
 ## es6   
 
 ### classes
+- [ES6 class variable alternatives](http://stackoverflow.com/questions/22528967/es6-class-variable-alternatives)
 - 10 Interview Questions
 Every JavaScript Developer Should Know : https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.utm7avrly
 - how to use and sleep at night : https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 - a simple challenge to classical fans : https://medium.com/javascript-scene/a-simple-challenge-to-classical-inheritance-fans-e78c2cf5eead
 
+### decorators
+- [javascript.info](http://javascript.info/tutorial/decorators)
+- [Method Decorators in ECMAScript 2015 (and beyond)](http://raganwald.com/2015/06/28/method-decorators.html)
+
 ### ebooks
 - understanding es6 : https://leanpub.com/understandinges6/read#leanpub-auto-global-block-bindings
 
 ### features
+- [Exploring ES6](http://exploringjs.com/es6/)
+- [es6 Features](https://github.com/lukehoban/es6features)
 - [Ponyfoo es6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
 - iterators and iterables : http://www.2ality.com/2015/02/es6-iteration.html                   
 - es6 generators : alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html                                                                       
@@ -51,8 +58,9 @@ Every JavaScript Developer Should Know : https://medium.com/javascript-scene/10-
 - d3 discussion (monster threads, touch on rollup) : https://github.com/mbostock/d3/issues/2461 : https://github.com/mbostock/d3/issues/2220
 
 ### overviews / cheat sheets
+- [ES6 is Beautiful](http://ewanvalentine.io/es6-is-beautiful/)
+- [es6 Features](https://github.com/lukehoban/es6features)
 - 350 bullet points : https://github.com/bevacqua/es6
-- Luke Hoban : https://github.com/lukehoban/es6features#readme
 - Drk : https://github.com/DrkSephy/es6-cheatsheet
 - choosing in 2016 over frameworks : https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5#.jl8d7x79 8
 

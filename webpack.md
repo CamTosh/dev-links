@@ -24,6 +24,13 @@
 - api : https://github.com/webpack/docs/wiki/api-in-modules
 - instagram docs : https://github.com/petehunt/webpack-howto
 
+### ebooks
+- [Survive Webpack](http://survivejs.com/webpack/introduction/)
+
+### images
+- [Loading Images](http://survivejs.com/webpack/loading-assets/loading-images/)
+- [s.o. config](http://stackoverflow.com/questions/30485183/webpack-require-relative-image)
+
 ### loaders
 - json loader : https://github.com/webpack/json-loader
 
@@ -37,6 +44,8 @@
 - react-webpack cookbook : https://christianalfoni.github.io/react-webpack-cookbook/index.html
 
 ### tuts
+- [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.secrje7l)
+- [Survive Webpack](http://survivejs.com/webpack/introduction/)
 - intro w examples : http://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/
 - beginners guide : https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460                                 
 - http://survivejs.com/webpack_react/introduction/                                                      

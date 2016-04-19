@@ -7,6 +7,7 @@
 - history : blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
 
 ### best practices
+- [10 Questions](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.a3dddkiob)
 - state of the art 2016 : https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.nd1z41ha1 : hn : https://news.ycombinator.com/item?id=11260133
 - leveling up your js : developer.telerik.com/featured/leveling-up-your-javascript/
 
@@ -22,6 +23,9 @@
 - concurrently js (3 parts) : blog.getify.com/concurrently-javascript-1
 
 ### functional
+- [What is a Pure Function](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.8i7297k40)
+- understanding the functional revolution : http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/                     
+
 - lodash cookbook : https://leanpub.com/lodashcookbook/
 - Reducing Filter and Map Down to Reduce : http://elijahmanor.com/reducing-filter-and-map-down-to-reduce/
 - function defs in js : https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
@@ -75,6 +79,9 @@
 ### overview
 - learn in one pic : https://github.com/coodict/javascript-in-one-pic
 - essential : https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
+
+### perf
+- [Optimization Killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#32-leaking-arguments)
 
 ### promises / generators
 - we have a problem with promises : pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html

@@ -30,6 +30,7 @@
 - home : https://code.facebook.com/posts/397706937084869/
 
 ### packages
+- atom-beautify
 - browser-plus : https://atom.io/packages/browser-plus
 - terminal-plus : https://atom.io/packages/terminal-plus
 - nuclide : https://atom.io/packages/nuclide-installer : https://github.com/facebook/nuclide
@@ -47,19 +48,3 @@
 - neovim atom demo : https://www.youtube.com/watch?v=yluIxQRjUCk
 
 -------
-
-### shortcuts
-- command-shift-\ : reveal current file in tree
-- ctrl-0 : move focus tree/files
-- ctrl-r : find function/method
-- shift-k-b : open sidebar
-- ctrl-g : go to line
-- command-/ : toggle comment
-- command-\ : toggle tree view
-- ctrl-(backtick) : toggle terminal plus
-- ctrl-m : goto matching bracket
-- ctrl-shift-m : show markdown preview (takes a second to load)
-- ctrl-tab : next tab
-- ctrl-shift-tab : previous tab
-- command-ctrl arrow keys : next/prev tab
-- ctrl-shift arrow keys : move tab

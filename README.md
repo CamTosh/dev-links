@@ -1,3 +1,3 @@
-# dev-links
+# Dev Links 
 
-Library of dev links that are rad
+Library of rad dev links

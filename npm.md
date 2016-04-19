@@ -3,6 +3,9 @@
 ### aggregators
 - awesome npm : https://github.com/sindresorhus/awesome-npm
 
+### build tool
+- [Should NPM be a Build Tool](https://medium.com/@leo/should-npm-really-be-used-as-a-built-tool-e8ff4f6cbcef#.18ph1gr3t)
+
 ### dependencies
 - s.o. : http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies
 
@@ -45,6 +48,7 @@
 - do we need gulp : http://gon.to/2015/02/26/gulp-is-awesome-but-do-we-really-need-it/         
 
 ### semver
+- [node-semver (symbol docs)](https://github.com/npm/node-semver#tilde-ranges-123-12-1)
 - [npm semver calculator](http://semver.npmjs.com/)
 - home : http://semver.org/
 - nodesource primer : https://nodesource.com/blog/semver-a-primer/

@@ -10,6 +10,9 @@
 ### automata
 - Index 1,600,000,000 Keys with Automata and Rust : http://blog.burntsushi.net/transducers/
 
+### compilers
+- [Teeny Tiny JS Compiler](https://github.com/acdlite/the-super-tiny-compiler/blob/master/super-tiny-compiler.js)
+
 ### cs
 - whats next in computing : https://medium.com/@cdixon/what-s-next-in-computing-e54b870b80cc#.ph3o0e88o
 
